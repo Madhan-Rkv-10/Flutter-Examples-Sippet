@@ -572,8 +572,8 @@
       },
       {
   "flutter Autocomplete Example": {
-    "scope": "dart",  // Specify the scope for Dart files
-    "prefix": "flutter-autocompleteexample",  // Choose a prefix to trigger the snippet
+    "scope": "dart", 
+    "prefix": "flutter-autocomplete-example",  
     "body": [
       "import 'package:flutter/material.dart';",
       "",
@@ -807,7 +807,61 @@
     ],
     "description": "flutter Async Autocomplete Example"
   }
+},
+{
+  "Flutter Material Banner Example": {
+    "prefix": "flutter-banner-example",
+    "body": [
+      "import 'package:flutter/material.dart';",
+      "",
+      "void main() => runApp(const MaterialBannerExampleApp());",
+      "",
+      "class MaterialBannerExampleApp extends StatelessWidget {",
+      "  const MaterialBannerExampleApp({super.key});",
+      "",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return const MaterialApp(",
+      "      home: MaterialBannerExample(),",
+      "    );",
+      "  }",
+      "}",
+      "",
+      "class MaterialBannerExample extends StatelessWidget {",
+      "  const MaterialBannerExample({super.key});",
+      "",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return Scaffold(",
+      "      appBar: AppBar(",
+      "        title: const Text('The MaterialBanner is below'),",
+      "      ),",
+      "      body: Center(",
+      "        child: ElevatedButton(",
+      "          child: const Text('Show MaterialBanner'),",
+      "          onPressed: () => ScaffoldMessenger.of(context).showMaterialBanner(",
+      "            const MaterialBanner(",
+      "              content: Text('Hello, I am a Material Banner'),",
+      "              leading: Icon(Icons.agriculture_outlined),",
+      "              backgroundColor: Colors.green,",
+      "              actions: <Widget>[",
+      "                TextButton(",
+      "                  onPressed: null,",
+      "                  child: Text('DISMISS'),",
+      "                ),",
+      "              ],",
+      "            ),",
+      "          ),",
+      "        ),",
+      "      ),",
+      "    );",
+      "  }",
+      "}"
+    ],
+    "description": "Flutter Material Banner Example in Dart"
+  }
 }
+
      
 
   
