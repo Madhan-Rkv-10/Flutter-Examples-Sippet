@@ -2034,6 +2034,8 @@
 },
 "Flutter DynamicColor Example": {
   "prefix": "flutter-dynamic-color-example",
+  "scope":"dart",
+
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -2430,6 +2432,8 @@
 },
 "Flutter SelectableRegionToolbarBuilderExampleApp Example": {
   "prefix": "flutter-selectable-regio-toolbar-example",
+  "scope":"dart",
+
   "body": [
     "",
     "import 'package:flutter/foundation.dart';",
@@ -2524,6 +2528,8 @@
 },
 "Flutter Data Table ": {
   "prefix": "flutter-datatable-example",
+  "scope":"dart",
+
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -2610,6 +2616,8 @@
 },
 "Flutter DateRange Picker ": {
   "prefix": "flutter-date-range-picker-example",
+  "scope":"dart",
+
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -2726,6 +2734,8 @@
 },
 "Flutter Date Picker ": {
   "prefix": "flutter-date-picker-example",
+  "scope":"dart",
+
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -2829,7 +2839,88 @@
   ],
   "description": "Flutter Date Picker "
 }
-
+,
+"Flutter Adaptive Dialog ": {
+  "prefix": "flutter-adaptive-dialog-example",
+  "scope":"dart",
+  "body": [
+    "",
+    "import 'package:flutter/cupertino.dart';",
+    "import 'package:flutter/material.dart';",
+    "",
+    "/// Flutter code sample for [AlertDialog].",
+    "",
+    "void main() => runApp(const AdaptiveAlertDialogApp());",
+    "",
+    "class AdaptiveAlertDialogApp extends StatelessWidget {",
+    "  const AdaptiveAlertDialogApp({super.key});",
+    "",
+    "  @override",
+    "  Widget build(BuildContext context) {",
+    "    return MaterialApp(",
+    "      // Try this: set the platform to TargetPlatform.android and see the difference",
+    "      theme: ThemeData(platform: TargetPlatform.iOS, useMaterial3: true),",
+    "      home: Scaffold(",
+    "        appBar: AppBar(title: const Text('AlertDialog Sample')),",
+    "        body: const Center(",
+    "          child: AdaptiveDialogExample(),",
+    "        ),",
+    "      ),",
+    "    );",
+    "  }",
+    "}",
+    "",
+    "class AdaptiveDialogExample extends StatelessWidget {",
+    "  const AdaptiveDialogExample({super.key});",
+    "",
+    "  Widget adaptiveAction({",
+    "    required BuildContext context,",
+    "    required VoidCallback onPressed,",
+    "    required Widget child",
+    "  }) {",
+    "    final ThemeData theme = Theme.of(context);",
+    "    switch (theme.platform) {",
+    "      case TargetPlatform.android:",
+    "      case TargetPlatform.fuchsia:",
+    "      case TargetPlatform.linux:",
+    "      case TargetPlatform.windows:",
+    "        return TextButton(onPressed: onPressed, child: child);",
+    "      case TargetPlatform.iOS:",
+    "      case TargetPlatform.macOS:",
+    "        return CupertinoDialogAction(onPressed: onPressed, child: child);",
+    "    }",
+    "  }",
+    "",
+    "  @override",
+    "  Widget build(BuildContext context) {",
+    "    return TextButton(",
+    "      onPressed: () => showAdaptiveDialog<String>(",
+    "        context: context,",
+    "        builder: (BuildContext context) => AlertDialog.adaptive(",
+    "          title: const Text('AlertDialog Title'),",
+    "          content: const Text('AlertDialog description'),",
+    "          actions: <Widget>[",
+    "            adaptiveAction(",
+    "              context: context,",
+    "              onPressed: () => Navigator.pop(context, 'Cancel'),",
+    "              child: const Text('Cancel'),",
+    "            ),",
+    "            adaptiveAction(",
+    "              context: context,",
+    "              onPressed: () => Navigator.pop(context, 'OK'),",
+    "              child: const Text('OK'),",
+    "            ),",
+    "          ],",
+    "        ),",
+    "      ),",
+    "      child: const Text('Show Dialog'),",
+    "    );",
+    "  }",
+    "}",
+    ""
+  ],
+  "description": "Flutter Adaptive Dialog "
+}
 
 
 
