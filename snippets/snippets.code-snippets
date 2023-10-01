@@ -2,7 +2,7 @@
   
     " Flutter AboutListTile Example": {
         "scope": "dart",
-        "prefix": "flutter-about-list-tile",
+        "prefix": "flutter-list-tile-about",
         "body": [
           "void main() => runApp(const AboutListTileExampleApp());",
           "",
@@ -1788,7 +1788,7 @@
 {
   "Flutter CheckboxListTile Example": {
     "scope": "dart",
-    "prefix": "flutter-checkboxlisttile-example",
+    "prefix": "flutter-listtile-checkbox-example",
     "body": [
       "import 'package:flutter/material.dart';",
       "",
