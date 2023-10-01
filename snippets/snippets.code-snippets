@@ -3586,8 +3586,8 @@
   ],
   "description": "Flutter Filled Button Example "
 },
-"Flutter Chip Example ": {
-  "prefix": "flutter-chip-example",
+"Flutter Filter Chip Example ": {
+  "prefix": "flutter-filter-chip-example",
   "scope":"dart",
   "body": [
     "",
@@ -3664,7 +3664,7 @@
     "}",
     ""
   ],
-  "description": "Flutter Chip Example "
+  "description": "Flutter Filter Chip Example "
 }
 
 
