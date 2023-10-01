@@ -84,7 +84,7 @@
       },
       "Dart Flutter ActionChip Example": {
         "scope": "dart",
-        "prefix": "flutter-action-chip",
+        "prefix": "flutter-chip-action",
         "body": [
           "// Flutter code sample [ActionChip].",
           "import 'package:flutter/material.dart';",
@@ -1872,7 +1872,7 @@
 {
   "Flutter DeletableChipAttributes.onDeleted Example": {
     "scope": "dart",
-    "prefix": "flutter-deletable-chip-example",
+    "prefix": "flutter-chip-deletable-example",
     "body": [
       "import 'package:flutter/material.dart';",
       "",
@@ -1962,7 +1962,7 @@
 {
   "Flutter ActionChoice Example": {
     "scope": "dart",
-    "prefix": "flutter-choicechip-example",
+    "prefix": "flutter-chip-choice-example",
     "body": [
       "import 'package:flutter/material.dart';",
       "",
@@ -3587,7 +3587,7 @@
   "description": "Flutter Filled Button Example "
 },
 "Flutter Filter Chip Example ": {
-  "prefix": "flutter-filter-chip-example",
+  "prefix": "flutter-chip-filter-example",
   "scope":"dart",
   "body": [
     "",
@@ -3862,7 +3862,7 @@
   "description": "Flutter FloatingActionButton Example "
 },
 "Flutter Choice Chip Example ": {
-  "prefix": "flutter-choice-chip-example",
+  "prefix": "flutter-chip-choice-example",
   "scope":"dart",
   "body": [
     "",
@@ -3937,7 +3937,7 @@
   "description": "Flutter Choice Chip Example "
 },
 "Flutter onDelete Chip Example ": {
-  "prefix": "flutter-ondelete-chip-example",
+  "prefix": "flutter-chip-ondelete-example",
   "scope":"dart",
   "body": [
     "",
@@ -4226,6 +4226,96 @@
     ""
   ],
   "description": "Flutter Inkwell Example "
+},
+"Flutter Input Example ": {
+  "prefix": "flutter-chip-input-example",
+  "body": [
+    "",
+    "// Flutter code sample InputChip.",
+    "",
+    "import 'package:flutter/material.dart';",
+    "",
+    "void main() => runApp(const ChipApp());",
+    "",
+    "class ChipApp extends StatelessWidget {",
+    "  const ChipApp({super.key});",
+    "",
+    "  @override",
+    "  Widget build(BuildContext context) {",
+    "    return MaterialApp(",
+    "      theme: ThemeData(colorSchemeSeed: const Color(0xff6750a4), useMaterial3: true),",
+    "      home: const InputChipExample(),",
+    "    );",
+    "  }",
+    "}",
+    "",
+    "class InputChipExample extends StatefulWidget {",
+    "  const InputChipExample({super.key});",
+    "",
+    "  @override",
+    "  State<InputChipExample> createState() => _InputChipExampleState();",
+    "}",
+    "",
+    "class _InputChipExampleState extends State<InputChipExample> {",
+    "  int inputs = 3;",
+    "  int? selectedIndex;",
+    "",
+    "  @override",
+    "  Widget build(BuildContext context) {",
+    "    return Scaffold(",
+    "      appBar: AppBar(",
+    "        title: const Text('InputChip Sample'),",
+    "      ),",
+    "      body: Center(",
+    "        child: Column(",
+    "          mainAxisSize: MainAxisSize.min,",
+    "          mainAxisAlignment: MainAxisAlignment.center,",
+    "          children: <Widget>[",
+    "            Wrap(",
+    "              alignment: WrapAlignment.center,",
+    "              spacing: 5.0,",
+    "              children: List<Widget>.generate(",
+    "                inputs,",
+    "                (int index) {",
+    "                  return InputChip(",
+    "                    label: Text('Person ${index + 1}'),",
+    "                    selected: selectedIndex == index,",
+    "                    onSelected: (bool selected) {",
+    "                      setState(() {",
+    "                        if (selectedIndex == index) {",
+    "                          selectedIndex = null;",
+    "                        } else {",
+    "                          selectedIndex = index;",
+    "                        }",
+    "                      });",
+    "                    },",
+    "                    onDeleted: () {",
+    "                      setState(() {",
+    "                        inputs = inputs - 1;",
+    "                      });",
+    "                    },",
+    "                  );",
+    "                },",
+    "              ).toList(),",
+    "            ),",
+    "            const SizedBox(height: 10),",
+    "            ElevatedButton(",
+    "              onPressed: () {",
+    "                setState(() {",
+    "                  inputs = 3;",
+    "                });",
+    "              },",
+    "              child: const Text('Reset'),",
+    "            )",
+    "          ],",
+    "        ),",
+    "      ),",
+    "    );",
+    "  }",
+    "}",
+    ""
+  ],
+  "description": "Flutter Input Example "
 }
 
 
