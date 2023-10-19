@@ -16039,7 +16039,7 @@
   "description": "Flutter MediaQueryData.systemGestureInsets Example using media query"
 },
 "Flutter RestorableRouteFuture Example": {
-  "prefix": "restorable route future",
+  "prefix": "restorable routefuture",
   "scope":"dart",
   "body": [
     "",
