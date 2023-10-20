@@ -17569,8 +17569,8 @@
   ],
   "description": "Flutter PopupRoute Example"
 },
-"Flutter SHow Dialog Custom Example": {
-  "prefix": "show dialog custom ",
+"Flutter show Dialog Custom Example": {
+  "prefix": "show dialog custom",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -17643,6 +17643,8 @@
     "            ),",
     "            child: Column(",
     "              children: <Widget>[",
+    "                Text('SHow Dialog Custom',",
+    "                    style: Theme.of(context).textTheme.headlineSmall),",
     "                Text('Dismissible Dialog',",
     "                    style: Theme.of(context).textTheme.headlineSmall),",
     "                const SizedBox(height: 20),",
@@ -17657,6 +17659,6 @@
     "}",
     ""
   ],
-  "description": "Flutter show dialog custom Example"
+  "description": "Flutter show Dialog Custom Example"
 }
   }
