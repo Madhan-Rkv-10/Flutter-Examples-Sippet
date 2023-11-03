@@ -569,8 +569,7 @@
           ],
           "description": "Flutter editable toggle button snippet"
         }
-      },
-      {
+      ,
   "flutter Autocomplete Example": {
     "scope": "dart", 
     "prefix": "flutter-autocomplete-example",  
@@ -655,8 +654,7 @@
     ],
     "description": "Flutter Autocomplete Example"
   }
-},
-{
+,
   "Flutter Async Autocomplete Example": {
     "scope": "dart",  // Specify the scope for Dart files
     "prefix": "flutter-asyncautocomplete-example",  // Choose a prefix to trigger the snippet
@@ -807,8 +805,7 @@
     ],
     "description": "flutter Async Autocomplete Example"
   }
-},
-{
+,
   "Flutter Material Banner Example": {
     "prefix": "flutter-banner-example",
     "body": [
@@ -860,7 +857,7 @@
     ],
     "description": "Flutter Material Banner Example in Dart"
   },
-  {
+  
     "Flutter BottomAppBar Demo": {
       "scope": "dart",
       "prefix": "flutter-bottomappbar-demo",
@@ -1019,11 +1016,7 @@
       ],
       "description": "Flutter BottomAppBar Demo in Dart"
     }
-  },
-  
-  
-},
-{
+  ,
   "Flutter BottomAppBar Demo Two": {
     "scope": "dart",
     "prefix": "flutter-bottomappbar-demo-two",
@@ -1217,8 +1210,7 @@
     ],
     "description": "Flutter BottomAppBar Demo Two in Dart"
   }
-},
-{
+,
   "Flutter BottomNavigationBar Example": {
     "scope": "dart",
     "prefix": "flutter-bottomnavbar-example",
@@ -1315,8 +1307,7 @@
     ],
     "description": "Flutter BottomNavigationBar Example in Flutter"
   }
-}
-,{
+,
   "Flutter Modal BottomSheet Example": {
     "scope":"dart",
     "prefix": "flutter-modal-bottomsheet-example",
@@ -1378,8 +1369,7 @@
     ],
     "description": "Flutter Modal BottomSheet Example in Flutter"
   }
-},
-{
+,
   "Flutter Button App": {
     "scope": "dart",
     "prefix": "flutter-buttons-example",
@@ -1453,8 +1443,7 @@
     ],
     "description": "Flutter button app template."
   }
-},
-{
+,
   "Flutter Card Example": {
     "scope": "dart",
     "prefix": "flutter-card-example",
@@ -1516,8 +1505,7 @@
     ],
     "description": "Flutter Card example."
   }
-},
-{
+,
   "Flutter Card Examples": {
     "scope": "dart",
     "prefix": "flutter-card-examples",
@@ -1613,8 +1601,7 @@
     ],
     "description": "Flutter Card examples."
   }
-},
-{
+,
   "Flutter Checkbox Example": {
     "scope": "dart",
     "prefix": "flutter-checkbox-example",
@@ -1688,8 +1675,7 @@
     ],
     "description": "Flutter Checkbox example."
   }
-},
-{
+,
   "Flutter Custom Labeled Checkbox Example": {
     "scope": "dart",
     "prefix": "flutter-custom-labeled-checkbox",
@@ -1784,8 +1770,7 @@
     ],
     "description": "Flutter Custom Labeled Checkbox example."
   }
-},
-{
+,
   "Flutter CheckboxListTile Example": {
     "scope": "dart",
     "prefix": "flutter-listtile-checkbox-example",
@@ -1868,8 +1853,7 @@
     ],
     "description": "Flutter CheckboxListTile example."
   }
-},
-{
+,
   "Flutter DeletableChipAttributes.onDeleted Example": {
     "scope": "dart",
     "prefix": "flutter-chip-deletable-example",
@@ -1958,8 +1942,7 @@
     ],
     "description": "Flutter DeletableChipAttributes.onDeleted example."
   }
-},
-{
+,
   "Flutter ActionChoice Example": {
     "scope": "dart",
     "prefix": "flutter-chip-choice-example",
@@ -2030,8 +2013,8 @@
       "}"
     ],
     "description": "Flutter ChoiceChip widget example."
-  }
-},
+  },
+
 "Flutter DynamicColor Example": {
   "prefix": "flutter-dynamic-color-example",
   "scope":"dart",
@@ -2431,9 +2414,8 @@
   "description": "Flutter DynamicColor Example"
 },
 "Flutter SelectableRegionToolbarBuilderExampleApp Example": {
-  "prefix": "flutter-selectable-regio-toolbar-example",
+  "prefix": "flutter-selectable-region-toolbar-example",
   "scope":"dart",
-
   "body": [
     "",
     "import 'package:flutter/foundation.dart';",
@@ -2735,7 +2717,6 @@
 "Flutter Date Picker ": {
   "prefix": "flutter-date-picker-example",
   "scope":"dart",
-
   "body": [
     "",
     "import 'package:flutter/material.dart';",
