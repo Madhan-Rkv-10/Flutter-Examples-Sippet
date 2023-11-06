@@ -19936,6 +19936,7 @@
 },
 "Flutter Table  Example": {
   "prefix": "table",
+"scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
