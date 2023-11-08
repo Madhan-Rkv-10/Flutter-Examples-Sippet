@@ -19510,6 +19510,7 @@
 },
 "Flutter SliverFillRemaining Example": {
   "prefix": "sliverfill remaining",
+"scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
