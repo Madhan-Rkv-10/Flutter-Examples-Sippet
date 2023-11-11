@@ -16377,6 +16377,7 @@
 },
 "Flutter NestedScrollView  With Floating Example": {
   "prefix": "nested_scroll_view with floating ",
+"scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
