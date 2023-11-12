@@ -17363,6 +17363,7 @@
 },
 "Flutter RestorationMixin Example": {
   "prefix": "restoration ",
+"scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
