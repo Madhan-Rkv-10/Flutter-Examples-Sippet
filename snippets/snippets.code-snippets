@@ -9755,6 +9755,7 @@
 },
 "Flutter  Toggle Button  Example": {
   "prefix": "flutter-togglebutton",
+"scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
