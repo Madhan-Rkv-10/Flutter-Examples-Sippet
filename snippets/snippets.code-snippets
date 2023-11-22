@@ -15109,6 +15109,7 @@
 },
 "Flutter InheritedModel Example": {
   "prefix": "inherited model",
+"scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
