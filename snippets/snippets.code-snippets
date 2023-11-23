@@ -9392,6 +9392,7 @@
 },
 "Flutter  Time picker, Radio button  Example": {
   "prefix": "flutter-timepicker",
+"scope":"dart",
   "body": [
     "// Copyright 2014 The Flutter Authors. All rights reserved.",
     "// Use of this source code is governed by a BSD-style license that can be",
