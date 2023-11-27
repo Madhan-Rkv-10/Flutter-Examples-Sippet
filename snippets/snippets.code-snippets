@@ -27678,7 +27678,8 @@
   "description": "Flutter showCupertinoDialog Example"
 },
 "Flutter showCupertinoModalPopup Example": {
-  "prefix": "cupertino model popup ",
+  "prefix": "flutter-cupertino model popup ",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
