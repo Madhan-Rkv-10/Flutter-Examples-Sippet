@@ -27753,6 +27753,7 @@
 },
 "Flutter CupertinoScrollbar  Example": {
   "prefix": "cupertino scrollbar ",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
@@ -27808,6 +27809,7 @@
 },
 "Flutter CupertinoSearchTextField  Example": {
   "prefix": "cupertino search textfield ",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
@@ -27873,6 +27875,7 @@
 },
 "Flutter CupertinoSegmentedControl  Example": {
   "prefix": "cupertino segmented control ",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
@@ -27983,6 +27986,7 @@
 },
 "Flutter CupertinoSlidingSegmentedControl  Example": {
   "prefix": "cupertino segmented sliding control ",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
