@@ -15475,6 +15475,7 @@
 },
 "Flutter [InteractiveViewer.builder Example": {
   "prefix": "interactiveViewer builder",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -15624,6 +15625,7 @@
 },
 "Flutter InteractiveViewer.constrained Example": {
   "prefix": "interactiveViewer constrained",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
