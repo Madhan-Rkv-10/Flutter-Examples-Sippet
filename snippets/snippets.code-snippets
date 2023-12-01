@@ -13244,6 +13244,7 @@
 },
 "Flutter OverflowBox Example": {
   "prefix": "overflowbox",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -15402,6 +15403,7 @@
 },
 "Flutter InheritedTheme Example": {
   "prefix": "inherited theme",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
