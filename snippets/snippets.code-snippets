@@ -15622,7 +15622,7 @@
     "}",
     ""
   ],
-  "description": "Flutter [InteractiveViewer.builder Example"
+  "description": "Flutter InteractiveViewer.builder Example"
 },
 "Flutter InteractiveViewer.constrained Example": {
   "prefix": "interactiveViewer constrained",
@@ -16193,6 +16193,7 @@
 },
 "Flutter NestedScrollViewState Example": {
   "prefix": "nested_scroll_view",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -16247,6 +16248,7 @@
 },
 "Flutter NestedScrollView  With TabExample": {
   "prefix": "nested_scroll_view with tab ",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -16386,7 +16388,7 @@
 },
 "Flutter NestedScrollView  With Floating Example": {
   "prefix": "nested_scroll_view with floating ",
-"scope":"dart",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -16444,6 +16446,7 @@
 },
 "Flutter NestedScrollView  With Snapping Example": {
   "prefix": "nested_scroll_view with snapping ",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -16511,11 +16514,8 @@
 },
 "Flutter Scroll Notification  W Example": {
   "prefix": "scroll notification",
+  "scope":"dart",
   "body": [
-    "// Copyright 2014 The Flutter Authors. All rights reserved.",
-    "// Use of this source code is governed by a BSD-style license that can be",
-    "// found in the LICENSE file.",
-    "",
     "import 'package:flutter/material.dart';",
     "",
     "/// Flutter code sample for [Notification].",
@@ -16606,6 +16606,7 @@
 },
 "Flutter OverflowBar Example": {
   "prefix": "overflowBar",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
