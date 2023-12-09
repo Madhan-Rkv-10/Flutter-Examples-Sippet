@@ -32699,6 +32699,7 @@
 },
 "Flutter MatrixTransition Example": {
   "prefix": "flutter-matrixTransision",
+  "scope":"dart",
   "body": [
     "",
     "import 'dart:math';",
