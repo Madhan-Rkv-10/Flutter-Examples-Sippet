@@ -9276,6 +9276,7 @@
 },
 "Flutter  Text Field Example": {
   "prefix": "flutter-textfield",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
