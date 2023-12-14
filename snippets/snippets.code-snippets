@@ -17716,7 +17716,8 @@
   "description": "Flutter showGeneralDialogExample"
 },
 "Flutter ScrollNotificationObserver": {
-  "prefix": "scroll notification observer",
+  "prefix": "flutter-scroll notification observer",
+"scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
