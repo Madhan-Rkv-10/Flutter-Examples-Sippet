@@ -16744,7 +16744,8 @@
   "description": "Flutter OverlayPortal Example"
 },
 "Flutter Overlay Example": {
-  "prefix": "overlay",
+  "prefix": " flutter-overlay",
+"scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
