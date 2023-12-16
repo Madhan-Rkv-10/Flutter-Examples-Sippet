@@ -4556,7 +4556,7 @@
 }
 ,
 "Flutter ExpansionPanelList Example ": {
-  "prefix": "flutter-exapansionPanel-list-example",
+  "prefix": "flutter-ExpansionPanelList-example",
   "scope":"dart",
   "body": [
     "import 'package:flutter/material.dart';",
