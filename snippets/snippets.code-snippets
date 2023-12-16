@@ -4139,7 +4139,7 @@
   "description": "Flutter showDialog "
 },
 "Flutter Alert Dialog ": {
-  "prefix": "flutter-alert-dialog-example",
+  "prefix": "flutter-AlertDialog",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
