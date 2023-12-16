@@ -2004,7 +2004,7 @@
 ,
   "Flutter Custom Labeled Checkbox Example": {
     "scope": "dart",
-    "prefix": "flutter-custom-labeled-checkbox",
+    "prefix": "flutter-Checkbox-custom-label",
     "body": [
       "import 'package:flutter/gestures.dart';",
       "import 'package:flutter/material.dart';",
