@@ -4049,7 +4049,7 @@
   "description": "Flutter Adaptive Dialog "
 },
 "Flutter showDialog ": {
-  "prefix": "flutter-show-dialog-example",
+  "prefix": "flutter-showDialog",
   "scope":"dart",
   "body": [
     "import 'package:flutter/material.dart';",
