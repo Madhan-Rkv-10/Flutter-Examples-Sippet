@@ -4140,6 +4140,7 @@
 },
 "Flutter Alert Dialog ": {
   "prefix": "flutter-AlertDialog",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -4217,7 +4218,7 @@
   "description": "Flutter Alert Dialog "
 },
 "Flutter Divider Dialog ": {
-  "prefix": "flutter-divider-example",
+  "prefix": "flutter-Divider",
   "scope":"dart",
   "body": [
     "",
