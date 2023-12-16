@@ -4296,7 +4296,7 @@
   "description": "Flutter Divider Dialog "
 },
 "Flutter Vertical Divider Dialog ": {
-  "prefix": "flutter-vertical-divider-example",
+  "prefix": "flutter-VerticalDivider",
   "scope":"dart",
   "body": [
     "",
