@@ -4431,7 +4431,7 @@
   "description": "Flutter DropDown Example "
 },
 "Flutter DropdownMenu Example ": {
-  "prefix": "flutter-dropdownmenu-example",
+  "prefix": "flutter-DropdownMenu-example",
   "scope":"dart",
   "body": [
     "",
