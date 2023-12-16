@@ -4362,7 +4362,7 @@
   "description": "Flutter Vertical Divider Dialog "
 },
 "Flutter DropDown Example ": {
-  "prefix": "flutter-dropdown-example",
+  "prefix": "flutter-DropdownButton",
   "scope":"dart",
   "body": [
     "",
