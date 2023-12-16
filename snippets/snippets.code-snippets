@@ -1772,7 +1772,7 @@
 ,
   "Flutter Card Example": {
     "scope": "dart",
-    "prefix": "flutter-card-example",
+    "prefix": "flutter-Card",
     "body": [
       "import 'package:flutter/material.dart';",
       "",
