@@ -1834,7 +1834,7 @@
 ,
   "Flutter Card Examples": {
     "scope": "dart",
-    "prefix": "flutter-card-examples",
+    "prefix": "flutter-Card-examples",
     "body": [
       "import 'package:flutter/material.dart';",
       "",
@@ -1930,7 +1930,7 @@
 ,
   "Flutter Checkbox Example": {
     "scope": "dart",
-    "prefix": "flutter-checkbox-example",
+    "prefix": "flutter-Checkbox",
     "body": [
       "import 'package:flutter/material.dart';",
       "",
