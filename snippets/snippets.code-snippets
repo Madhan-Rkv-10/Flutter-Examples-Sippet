@@ -1698,7 +1698,7 @@
 ,
   "Flutter Button App": {
     "scope": "dart",
-    "prefix": "flutter-buttons-example",
+    "prefix": "flutter-ElevatedButton",
     "body": [
       "import 'package:flutter/material.dart';",
       "",
