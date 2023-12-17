@@ -7787,7 +7787,7 @@
   "description": "Flutter NavigationDrawer Example"
 },
 "Flutter NavigationRail Example": {
-  "prefix": "flutter-navigation-rail",
+  "prefix": "flutter-NavigationRail",
   "scope":"dart",
   "body": [
     "",
