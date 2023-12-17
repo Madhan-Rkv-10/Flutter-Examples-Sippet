@@ -5310,7 +5310,7 @@
   "description": "Flutter onDelete Chip Example "
 },
 "Flutter Icon Button Example ": {
-  "prefix": "flutter-icon-button-example",
+  "prefix": "flutter-IconButton-example",
   "scope":"dart",
 
   "body": [
