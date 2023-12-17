@@ -4958,7 +4958,7 @@
   "description": "Flutter FlexibleSpaceBar Example "
 },
 "Flutter FloatingActionButton Example ": {
-  "prefix": "flutter-floating-actionn-button-example",
+  "prefix": "flutter-FloatingActionButton-example",
   "scope":"dart",
   "body": [
     "",
