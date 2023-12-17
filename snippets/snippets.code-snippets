@@ -4874,7 +4874,7 @@
   "description": "Flutter Filter Chip Example "
 },
 "Flutter FlexibleSpaceBar Example ": {
-  "prefix": "flutter-flexible-space-bar-example",
+  "prefix": "flutter-FlexibleSpaceBar-example",
   "scope":"dart",
   "body": [
     "",
