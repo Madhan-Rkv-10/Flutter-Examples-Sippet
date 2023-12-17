@@ -5746,7 +5746,7 @@
   "description": "Flutter Input Chip Example "
 },
 "Flutter InputDecorator Example ": {
-  "prefix": "flutter-input-decorator-example",
+  "prefix": "flutter-InputDecoration-example",
   "scope":"dart",
   "body": [
     "",
