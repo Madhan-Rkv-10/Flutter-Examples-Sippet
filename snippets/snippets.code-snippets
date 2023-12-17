@@ -5506,7 +5506,7 @@
   "description": "Flutter ImageClipExample Example "
 },
 "Flutter Inkwell Example ": {
-  "prefix": "flutter-inkwell-example",
+  "prefix": "flutter-InkWell-example",
   "scope":"dart",
   "body": [
     "",
