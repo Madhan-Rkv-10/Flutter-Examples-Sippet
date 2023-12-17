@@ -4649,7 +4649,7 @@
   "description": "Flutter ExpansionPanelList Example "
 },
 "Flutter Filled Button Example ": {
-  "prefix": "flutter-filled-button-example",
+  "prefix": "flutter-FilledButton-example",
   "scope":"dart",
   "body": [
     "",
