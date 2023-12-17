@@ -7501,7 +7501,7 @@
   "description": "Flutter Menu Example "
 },
 "Flutter NavigationBar Example": {
-  "prefix": "flutter-navigation-bar",
+  "prefix": "flutter-NavigationBar",
   "scope":"dart",
   "body": [
     "",
