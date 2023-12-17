@@ -7604,7 +7604,7 @@
   "description": "Flutter NavigationBar Example"
 },
 "Flutter NavigationDrawer Example": {
-  "prefix": "flutter-navigation-drawer",
+  "prefix": "flutter-NavigationDrawer",
   "scope":"dart",
   "body": [
     "",
