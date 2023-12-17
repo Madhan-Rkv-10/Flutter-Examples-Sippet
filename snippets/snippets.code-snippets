@@ -7977,7 +7977,7 @@
   "description": "Flutter NavigationRail Example"
 },
 "Flutter NavigationRail Extended Example": {
-  "prefix": "flutter-navigation-rail-extended",
+  "prefix": "flutter-NavigationRailExtended",
   "scope":"dart",
   "body": [
     "",
