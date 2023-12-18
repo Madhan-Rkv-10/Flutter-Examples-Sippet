@@ -8384,7 +8384,7 @@
   "description": "Flutter Popup Menu Example"
 },
 "Flutter Circular Progress Indicator Example": {
-  "prefix": "flutter-circular-progress-indicator",
+  "prefix": "flutter-CircularProgressIndicator",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
