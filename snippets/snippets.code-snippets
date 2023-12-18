@@ -8237,7 +8237,7 @@
   "description": "Flutter Page Transition Theme Example"
 },
 "Flutter Page Transition Zoom Example": {
-  "prefix": "flutter-page-transition-zoom",
+  "prefix": "flutter-PageTransition-zoom",
   "scope":"dart",
   "body": [
     "",
