@@ -8112,7 +8112,7 @@
   "description": "Flutter NavigationRail Extended Example"
 },
 "Flutter Outlined Example": {
-  "prefix": "flutter-outlined-button",
+  "prefix": "flutter-OutlinedButton",
   "scope":"dart",
   "body": [
     "",
