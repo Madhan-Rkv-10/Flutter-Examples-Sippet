@@ -8461,7 +8461,7 @@
   "description": "Flutter Circular Progress Indicator Example"
 },
 "Flutter Linear Progress Indicator Example": {
-  "prefix": "flutter-linear-progress-indicator",
+  "prefix": "flutter-LinearProgressIndicator",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
