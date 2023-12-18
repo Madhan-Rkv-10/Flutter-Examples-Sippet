@@ -8153,7 +8153,7 @@
     "}",
     ""
   ],
-  "description": "Flutter Outlined Example"
+  "description": "Flutter Outlined Button Example"
 },
 "Flutter Page Transition Theme Example": {
   "prefix": "flutter-PageTransitionsTheme",
@@ -8314,7 +8314,7 @@
   "description": "Flutter Page Transition Zoom Example"
 },
 "Flutter Popup Menu Example": {
-  "prefix": "flutter-popup-menu",
+  "prefix": "flutter-PopupMenuButton",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
