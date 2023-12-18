@@ -8156,7 +8156,7 @@
   "description": "Flutter Outlined Example"
 },
 "Flutter Page Transition Theme Example": {
-  "prefix": "flutter-page-transition-theme",
+  "prefix": "flutter-PageTransitionsTheme",
   "scope":"dart",
   "body": [
     "",
