@@ -9143,7 +9143,7 @@
   "description": "Flutter RangeSlider Example"
 },
 "Flutter RefreshIndicator Example": {
-  "prefix": "flutter-refresh-indicator",
+  "prefix": "flutter-RefreshIndicator",
   "scope":"dart",
   "body": [
     "import 'package:flutter/material.dart';",
