@@ -9086,7 +9086,7 @@
   "description": "Flutter RadioList Tile Builder"
 },
 "Flutter RangeSlider Example": {
-  "prefix": "flutter-range-slider",
+  "prefix": "flutter-RangeSlider",
   "scope":"dart",
   "body": [
     "",
