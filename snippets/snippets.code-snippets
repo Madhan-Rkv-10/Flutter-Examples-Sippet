@@ -9390,7 +9390,7 @@
   "description": "Flutter showmaterial banner Example"
 },
 "Flutter showsnackbar banner Example": {
-  "prefix": "flutter-show-snackbar",
+  "prefix": "flutter-showSnackBar",
   "scope":"dart",
   "body": [
     "",
