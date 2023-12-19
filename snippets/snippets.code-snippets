@@ -9215,7 +9215,7 @@
   "description": "Flutter RefreshIndicator Example"
 },
 "Flutter ReorderableListView Example": {
-  "prefix": "flutter-reorderable-listview",
+  "prefix": "flutter-ReorderableListView",
   "scope":"dart",
   "body": [
     "",
