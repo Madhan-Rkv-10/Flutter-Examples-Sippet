@@ -9846,7 +9846,7 @@
   "description": "Flutter Search Anchor  Example"
 },
 "Flutter Search Anchor with Debounce Example": {
-  "prefix": "flutter-search-anchor-async",
+  "prefix": "flutter-SearchAnchor-async",
 "scope":"dart",
   "body": [
     "",
