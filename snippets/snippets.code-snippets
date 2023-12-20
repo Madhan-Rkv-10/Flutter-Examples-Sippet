@@ -9504,7 +9504,7 @@
   "description": "Flutter show Bottom Sheet Example"
 },
 "Flutter drawer Example": {
-  "prefix": "flutter-drawer",
+  "prefix": "flutter-Drawer",
   "scope":"dart",
   "body": [
     "",
