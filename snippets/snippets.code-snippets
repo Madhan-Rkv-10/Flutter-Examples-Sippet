@@ -9578,7 +9578,7 @@
   "description": "Flutter drawer Example"
 },
 "Flutter  End Drawer Example": {
-  "prefix": "flutter-end-drawer",
+  "prefix": "flutter-endDrawer",
   "body": [
     "import 'package:flutter/material.dart';",
     "",
