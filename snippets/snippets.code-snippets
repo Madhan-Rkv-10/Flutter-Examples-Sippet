@@ -9706,7 +9706,7 @@
   "description": "Flutter  scrollbar Example"
 },
 "Flutter Search Anchor  Example": {
-  "prefix": "flutter-search-anchor",
+  "prefix": "flutter-SearchAnchor",
   "scope":"dart",
   "body": [
     "",
