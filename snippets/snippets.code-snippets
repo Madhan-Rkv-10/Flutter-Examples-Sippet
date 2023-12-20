@@ -9650,7 +9650,8 @@
   "description": "Flutter  End Drawer Example"
 },
 "Flutter  scrollbar Example": {
-  "prefix": "flutter-scrollbar",
+  "prefix": "flutter-Scrollbar",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/material.dart';",
     "",
