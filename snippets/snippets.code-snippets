@@ -9438,7 +9438,7 @@
   "description": "Flutter showsnackbar banner Example"
 },
 "Flutter show Bottom Sheet Example": {
-  "prefix": "flutter-show-bottom-sheet",
+  "prefix": "flutter-showBottomSheet",
   "scope":"dart",
   "body": [
     "",
