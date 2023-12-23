@@ -10762,7 +10762,7 @@
   "description": "Flutter Slider"
 },
 "Flutter Snackbar Example": {
-  "prefix": "flutter-snackbar",
+  "prefix": "flutter-SnackBar",
   "scope":"dart",
   "body": [
     "",
