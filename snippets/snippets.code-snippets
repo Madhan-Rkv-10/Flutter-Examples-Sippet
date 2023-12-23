@@ -10221,7 +10221,7 @@
   "description": "Flutter Segmented Button Example"
 },
 "Flutter Selectable Region Example": {
-  "prefix": "flutter-selectable-region",
+  "prefix": "flutter-SelectableRegion",
   "scope":"dart",
   "body": [
     "",
