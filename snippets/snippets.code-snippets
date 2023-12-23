@@ -10108,7 +10108,7 @@
   "description": "Flutter Search bar Example"
 },
 "Flutter Segmented Button Example": {
-  "prefix": "flutter-segmented-button",
+  "prefix": "flutter-SegmentedButton",
   "scope":"dart",
   "body": [
     "",
