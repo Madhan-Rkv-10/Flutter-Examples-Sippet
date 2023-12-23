@@ -10030,7 +10030,7 @@
   "description": "Flutter Search Anchor with Debounce Example"
 },
 "Flutter Search bar Example": {
-  "prefix": "flutter-search-bar",
+  "prefix": "flutter-SearchBar",
   "scope":"dart",
   "body": [
     "",
