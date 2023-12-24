@@ -15401,7 +15401,7 @@
   "description": "Flutter Fittedbox Example"
 },
 "Flutter Flow Example": {
-  "prefix": "flow",
+  "prefix": "flutter-Flow",
   "scope":"dart",
   "body": [
     "",
