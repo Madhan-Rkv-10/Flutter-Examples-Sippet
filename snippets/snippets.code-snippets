@@ -18513,7 +18513,7 @@
   "description": "Flutter InheritedTheme Example"
 },
 "Flutter [InteractiveViewer.builder Example": {
-  "prefix": "interactiveViewer builder",
+  "prefix": "flutter-InteractiveViewer_builder",
   "scope":"dart",
   "body": [
     "",
