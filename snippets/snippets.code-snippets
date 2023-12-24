@@ -13308,7 +13308,7 @@
   "description": "Flutter  SliverAnimatedGrid  Example"
 },
 "Flutter  SliverAnimatedList  Example": {
-  "prefix": "flutter-sliver animated list",
+  "prefix": "flutter-SliverAnimatedList",
   "scope":"dart",
   "body": [
     "",
