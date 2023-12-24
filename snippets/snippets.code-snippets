@@ -11036,7 +11036,7 @@
   "description": "Flutter Switch Example"
 },
 "Flutter Switch List Tile Example": {
-  "prefix": "flutter-switchlisttile",
+  "prefix": "flutter-SwitchListTile",
   "scope":"dart",
   "body": [
     "",
