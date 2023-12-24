@@ -11465,7 +11465,7 @@
   "description": "Flutter  TabController Example"
 },
 "Flutter  Tab Bar primary  Example": {
-  "prefix": "flutter-tabbar primary secodary",
+  "prefix": "flutter-TabBar primary secodary",
   "scope":"dart",
   "body": [
     "",
@@ -11587,7 +11587,7 @@
   "description": "Flutter  Tab Bar primary  Example"
 },
 "Flutter  Text button  Example": {
-  "prefix": "flutter-textbutton",
+  "prefix": "flutter-TextButton",
   "scope":"dart",
   "body": [
     "",
