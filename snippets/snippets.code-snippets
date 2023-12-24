@@ -15082,7 +15082,7 @@
   "description": "Flutter AspectRatio Example"
 },
 "Flutter ClipRRect Example": {
-  "prefix": "flutter-cliprrect",
+  "prefix": "flutter-ClipRRect",
   "scope":"dart",
   "body": [
     "",
