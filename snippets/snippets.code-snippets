@@ -18663,7 +18663,7 @@
   "description": "Flutter InteractiveViewer.builder Example"
 },
 "Flutter InteractiveViewer.constrained Example": {
-  "prefix": "flutter-InteractiveViewer constrained",
+  "prefix": "flutter-InteractiveViewer_constrained",
   "scope":"dart",
   "body": [
     "",
@@ -18863,7 +18863,7 @@
   "description": "Flutter InteractiveViewer.transformationController Example"
 },
 "Flutter LayoutBuilder Example": {
-  "prefix": "layoutBuilder",
+  "prefix": "flutter-LayoutBuilder",
   "scope":"dart",
   "body": [
     "",
