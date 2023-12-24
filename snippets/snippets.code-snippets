@@ -13887,7 +13887,7 @@
   "description": "Flutter  AnimatedSwitcher  Example"
 },
 "Flutter  AppLifecycleListener  Example": {
-  "prefix": "flutter-app lifecycle listener",
+  "prefix": "flutter-AppLifecycleListener",
   "scope":"dart",
   "body": [
     "",
