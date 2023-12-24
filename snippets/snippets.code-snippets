@@ -15894,7 +15894,7 @@
   "description": "Flutter Listener  Example"
 },
 "Flutter  Mouse Listener  Example": {
-  "prefix": "mouselistener",
+  "prefix": "flutter-MouseListener",
   "scope":"dart",
   "body": [
     "",
