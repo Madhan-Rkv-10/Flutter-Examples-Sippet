@@ -16268,7 +16268,7 @@
   "description": "Flutter OverflowBox Example"
 },
 "Flutter PhysicalShape Example": {
-  "prefix": "physicalshape",
+  "prefix": "flutter-PhysicalShape",
   "scope":"dart",
   "body": [
     "import 'package:flutter/material.dart';",
