@@ -14341,7 +14341,7 @@
   "description": "Flutter  StreamBuilder  Example"
 },
 "Flutter  RawAutocomplete  Example": {
-  "prefix": "Flutter-rawautocomplete ",
+  "prefix": "flutter-RawAutocomplete",
   "scope":"dart",
   "body": [
     "",
