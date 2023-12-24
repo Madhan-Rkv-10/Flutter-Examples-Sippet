@@ -16122,7 +16122,7 @@
   "description": "Flutter MOUSE REGION  Example"
 },
 "Flutter Offstage  Example": {
-  "prefix": "offstage",
+  "prefix": "flutter-offstage",
   "scope":"dart",
   "body": [
     "",
