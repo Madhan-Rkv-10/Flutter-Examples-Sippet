@@ -14105,7 +14105,7 @@
   "description": "Flutter  AppLifecycleListener  Example"
 },
 "Flutter  FutureBuilder  Example": {
-  "prefix": "Flutter-futurebuilder ",
+  "prefix": "Flutter-FutureBuilder",
   "scope":"dart",
   "body": [
     "",
