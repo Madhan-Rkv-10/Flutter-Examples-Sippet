@@ -17964,7 +17964,7 @@
   "description": "Flutter AnimatedPositioned Example"
 },
 "Flutter AnimatedSlide Example": {
-  "prefix": "animated slide",
+  "prefix": "flutter-AnimatedSlide",
   "scope":"dart",
   "body": [
     "",
