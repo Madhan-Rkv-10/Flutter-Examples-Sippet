@@ -17823,7 +17823,7 @@
   "description": "Flutter AnimatedFractionallySizedBox Example"
 },
 "Flutter AnimatedPadding Example": {
-  "prefix": "animated padding",
+  "prefix": "flutter-AnimatedPadding",
   "scope":"dart",
   "body": [
     "",
@@ -17892,7 +17892,7 @@
   "description": "Flutter AnimatedPadding Example"
 },
 "Flutter AnimatedPositioned Example": {
-  "prefix": "animated positioned",
+  "prefix": "flutter-AnimatedPositioned",
   "scope":"dart",
   "body": [
     "",
