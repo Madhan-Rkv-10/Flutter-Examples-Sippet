@@ -15579,7 +15579,7 @@
   "description": "Flutter FractionallySizedBox Example"
 },
 "Flutter IgnorePointer  Example": {
-  "prefix": "Flutter-ignore pointer",
+  "prefix": "flutter-IgnorePointer",
   "scope":"dart",
   "body": [
     "",
