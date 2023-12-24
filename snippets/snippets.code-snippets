@@ -14105,7 +14105,7 @@
   "description": "Flutter  AppLifecycleListener  Example"
 },
 "Flutter  FutureBuilder  Example": {
-  "prefix": "Flutter-FutureBuilder",
+  "prefix": "flutter-FutureBuilder",
   "scope":"dart",
   "body": [
     "",
@@ -14201,7 +14201,7 @@
   "description": "Flutter  FutureBuilder  Example"
 },
 "Flutter  StreamBuilder  Example": {
-  "prefix": "Flutter-StreamBuilder ",
+  "prefix": "flutter-StreamBuilder ",
   "scope":"dart",
   "body": [
     "",
@@ -14467,7 +14467,7 @@
   "description": "Flutter  RawAutocomplete  Example"
 },
 "Flutter Split RawAutocomplete  Example": {
-  "prefix": "Flutter-rawautocomplete split",
+  "prefix": "flutter-RawAutocomplete_split",
   "scope":"dart",
   "body": [
     "",
@@ -14564,7 +14564,7 @@
   "description": "Flutter Split RawAutocomplete  Example"
 },
 "Flutter DropdowFormField  Example": {
-  "prefix": "Flutter-drop-down form field ",
+  "prefix": "Flutter-DropdowFormField",
   "scope":"dart",
   "body": [
     "",
