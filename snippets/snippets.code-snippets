@@ -15528,7 +15528,7 @@
   "description": "Flutter Flow Example"
 },
 "Flutter FractionallySizedBox Example": {
-  "prefix": "fractionally sizedbox",
+  "prefix": "flutter-FractionallySizedBox",
   "scope":"dart",
   "body": [
     "",
