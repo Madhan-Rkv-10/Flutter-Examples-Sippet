@@ -17250,7 +17250,7 @@
   "description": "Flutter Form Example"
 },
 "Flutter ErrorWidget Example": {
-  "prefix": "error widget",
+  "prefix": "flutter-ErrorWidget",
   "scope":"dart",
   "body": [
     "",
@@ -17326,7 +17326,7 @@
   "description": "Flutter ErrorWidget Example"
 },
 "Flutter GestureDetector Example": {
-  "prefix": "gesture detector",
+  "prefix": "flutter-GestureDetector",
   "scope":"dart",
   "body": [
     "",
