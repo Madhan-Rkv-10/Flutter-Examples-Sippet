@@ -13074,7 +13074,7 @@
   "description": "Flutter  Animated Grid  Example"
 },
 "Flutter  SliverAnimatedGrid  Example": {
-  "prefix": "flutter-sliver animated grid",
+  "prefix": "flutter-SliverAnimatedGrid",
   "scope":"dart",
   "body": [
     "",
