@@ -18663,7 +18663,7 @@
   "description": "Flutter InteractiveViewer.builder Example"
 },
 "Flutter InteractiveViewer.constrained Example": {
-  "prefix": "interactiveViewer constrained",
+  "prefix": "flutter-InteractiveViewer constrained",
   "scope":"dart",
   "body": [
     "",
