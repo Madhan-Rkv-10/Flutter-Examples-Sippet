@@ -13539,7 +13539,7 @@
   "description": "Flutter  SliverAnimatedList  Example"
 },
 "Flutter  AnimatedList  Example": {
-  "prefix": "flutter-animated list",
+  "prefix": "flutter-AnimatedList",
   "scope":"dart",
   "body": [
     "",
