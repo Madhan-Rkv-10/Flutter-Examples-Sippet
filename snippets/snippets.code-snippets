@@ -14775,7 +14775,7 @@
   "description": "Flutter AutofillGroup  Example"
 },
 "Flutter AbsorbPointer  Example": {
-  "prefix": "Flutter-AbsorbPointer",
+  "prefix": "flutter-AbsorbPointer",
   "scope":"dart",
   "body": [
     ".",
