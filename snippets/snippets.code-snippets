@@ -16406,7 +16406,7 @@
   "description": "Flutter WidgetBindingsObserver Example"
 },
 "Futter ColorFiltered Example": {
-  "prefix": "colorfiltered",
+  "prefix": "flutter-ColorFiltered",
   "scope":"dart",
   "body": [
     "",
@@ -16466,7 +16466,7 @@
   "description": "Futter ColorFiltered Example"
 },
 "Futter Dismissible Example": {
-  "prefix": "dismissible",
+  "prefix": "flutter-Dismissible",
   "scope":"dart",
   "body": [
     "",
@@ -16531,7 +16531,7 @@
   "description": "Futter Dismissible Example"
 },
 "Futter Draggable Example": {
-  "prefix": "draggable",
+  "prefix": "flutter-Draggable",
   "scope":"dart",
   "body": [
     "",
@@ -16701,8 +16701,84 @@
     ""
   ],
   "description": "Flutter KeyboardInsertedContent Example"
+},"Flutter KeyboardInsertedContent Example": {
+  "prefix": "flutter-Textfield-Input-Configuration",
+  "scope":"dart",
+  "body": [
+    "",
+    "import 'dart:typed_data';",
+    "",
+    "import 'package:flutter/material.dart';",
+    "",
+    "/// Flutter code sample for [EditableText.onContentInserted].",
+    "",
+    "void main() => runApp(const KeyboardInsertedContentApp());",
+    "",
+    "class KeyboardInsertedContentApp extends StatelessWidget {",
+    "  const KeyboardInsertedContentApp({super.key});",
+    "",
+    "  @override",
+    "  Widget build(BuildContext context) {",
+    "    return const MaterialApp(",
+    "      home: KeyboardInsertedContentDemo(),",
+    "    );",
+    "  }",
+    "}",
+    "",
+    "class KeyboardInsertedContentDemo extends StatefulWidget {",
+    "  const KeyboardInsertedContentDemo({super.key});",
+    "",
+    "  @override",
+    "  State<KeyboardInsertedContentDemo> createState() =>",
+    "      _KeyboardInsertedContentDemoState();",
+    "}",
+    "",
+    "class _KeyboardInsertedContentDemoState",
+    "    extends State<KeyboardInsertedContentDemo> {",
+    "  final TextEditingController _controller = TextEditingController();",
+    "  Uint8List? bytes;",
+    "",
+    "  @override",
+    "  void dispose() {",
+    "    _controller.dispose();",
+    "    super.dispose();",
+    "  }",
+    "",
+    "  @override",
+    "  Widget build(BuildContext context) {",
+    "    return Scaffold(",
+    "      appBar: AppBar(title: const Text('Keyboard Inserted Content Sample')),",
+    "      body: Column(",
+    "        mainAxisAlignment: MainAxisAlignment.center,",
+    "        children: <Widget>[",
+    "          const Text(",
+    "              \"Here's a text field that supports inserting only png or gif content:\"),",
+    "          TextField(",
+    "            controller: _controller,",
+    "            contentInsertionConfiguration: ContentInsertionConfiguration(",
+    "              allowedMimeTypes: const <String>['image/png', 'image/gif'],",
+    "              onContentInserted: (KeyboardInsertedContent data) async {",
+    "                if (data.data != null) {",
+    "                  setState(() {",
+    "                    bytes = data.data;",
+    "                  });",
+    "                }",
+    "              },",
+    "            ),",
+    "          ),",
+    "          if (bytes != null)",
+    "            const Text(\"Here's the most recently inserted content:\"),",
+    "          if (bytes != null) Image.memory(bytes!),",
+    "        ],",
+    "      ),",
+    "    );",
+    "  }",
+    "}",
+    ""
+  ],
+  "description": "Flutter KeyboardInsertedContent Example"
 },"Flutter FocusNode Example": {
-  "prefix": "focusnode",
+  "prefix": "flutter-FocusNode",
   "scope":"dart",
   "body": [
     "",
@@ -16831,7 +16907,7 @@
   "description": "Flutter FocusNode Example"
 },
 "Flutter FocusScope Example": {
-  "prefix": "focusscope",
+  "prefix": "flutter-FocusScope",
   "scope":"dart",
   "body": [
     "",
@@ -17000,7 +17076,7 @@
   "description": "Flutter FocusScope Example"
 },
 "Flutter OrderedTraversalPolicy Example": {
-  "prefix": "order traversal policy",
+  "prefix": "flutter-OrderedTraversalPolicy",
   "scope":"dart",
   "body": [
     "",
@@ -17098,7 +17174,7 @@
   "description": "Flutter OrderedTraversalPolicy Example"
 },
 "Flutter Form Example": {
-  "prefix": "form",
+  "prefix": "flutter-Form",
   "scope":"dart",
   "body": [
     "",
