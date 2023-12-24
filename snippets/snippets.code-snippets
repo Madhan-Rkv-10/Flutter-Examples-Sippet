@@ -12838,7 +12838,7 @@
   "description": "Flutter  Tooltip  Example"
 },
 "Flutter  Animated Grid  Example": {
-  "prefix": "flutter-animatedgrid",
+  "prefix": "flutter-AnimatedGrid",
   "scope":"dart",
   "body": [
     "",
