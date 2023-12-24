@@ -11308,7 +11308,7 @@
   "description": "Flutter  Custom Switch List Tile Example"
 },
 "Flutter  TabController Example": {
-  "prefix": "flutter-tabcontroller",
+  "prefix": "flutter-TabController",
   "scope":"dart",
   "body": [
     "",
