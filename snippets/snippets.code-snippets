@@ -15352,7 +15352,7 @@
   "description": "Flutter Expanded Example"
 },
 "Flutter Fittedbox Example": {
-  "prefix": "fittedbox",
+  "prefix": "flutter-FittedBox",
   "scope":"dart",
   "body": [
     "",
