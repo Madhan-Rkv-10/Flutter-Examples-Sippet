@@ -15988,7 +15988,7 @@
   "description": "Flutter Mouse Listener  Example"
 },
 "Flutter MOUSE REGION  Example": {
-  "prefix": "mouseregion",
+  "prefix": "flutter-MouseRegion",
   "scope":"dart",
   "body": [
     "",
