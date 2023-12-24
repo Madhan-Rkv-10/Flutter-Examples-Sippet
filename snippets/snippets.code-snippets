@@ -16327,7 +16327,7 @@
   "description": "Flutter PhysicalShape Example"
 },
 "Flutter WidgetsBindingsObserver Example": {
-  "prefix": "widgetsbindingobserver",
+  "prefix": "flutter-WidgetBindingsObserver",
   "scope":"dart"
   "body": [
     "",
