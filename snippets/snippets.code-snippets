@@ -11675,7 +11675,7 @@
   "description": "Flutter  Text button  Example"
 },
 "Flutter  Text button selected   Example": {
-  "prefix": "flutter-textbutton-selected",
+  "prefix": "flutter-TextButton-selected",
   "scope":"dart",
   "body": [
     "",
@@ -11783,7 +11783,7 @@
   "description": "Flutter  Text button selected   Example"
 },
 "Flutter  Text Field Example": {
-  "prefix": "flutter-textfield",
+  "prefix": "flutter-TextField",
   "scope":"dart",
   "body": [
     "",
@@ -11830,7 +11830,7 @@
   "description": "Flutter  Text Field selected   Example"
 },
 "Flutter  Text Form Field selected   Example": {
-  "prefix": "flutter-textformfield",
+  "prefix": "flutter-TextFormField",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
