@@ -18075,7 +18075,7 @@
   "description": "Flutter AnimatedSlide Example"
 },
 "Flutter SliverAnimatedOpacity Example": {
-  "prefix": "sliver animated opacity ",
+  "prefix": "flutter-SliverAnimatedOpacity",
   "scope":"dart",
   "body": [
     "import 'package:flutter/material.dart';",
@@ -18149,7 +18149,7 @@
   "description": "Flutter SliverAnimatedOpacity Example"
 },
 "Flutter InheritedModel Example": {
-  "prefix": "inherited model",
+  "prefix": "flutter-InheritedModel",
 "scope":"dart",
   "body": [
     "",
@@ -18326,7 +18326,7 @@
   "description": "Flutter InheritedModel Example"
 },
 "Flutter InheritedNotifier Example": {
-  "prefix": "inherited notifier",
+  "prefix": "flutter-InheritedNotifier",
   "scope":"dart",
   "body": [
     "",
