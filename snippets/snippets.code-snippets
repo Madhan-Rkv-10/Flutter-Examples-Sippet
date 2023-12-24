@@ -15654,7 +15654,7 @@
   "description": "Flutter IgnorePointer  Example"
 },
 "Flutter IndexedStack  Example": {
-  "prefix": "Flutter-indexed stack",
+  "prefix": "flutter-IndexedStack",
   "scope":"dart",
   "body": [
     "",
