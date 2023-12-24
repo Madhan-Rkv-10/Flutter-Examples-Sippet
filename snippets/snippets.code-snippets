@@ -18938,7 +18938,7 @@
   "description": "Flutter LayoutBuilder Example"
 },
 "Flutter Magnifier Example": {
-  "prefix": "magnifier",
+  "prefix": "flutter-Magnifier",
   "scope":"dart",
   "body": [
     "",
