@@ -17462,7 +17462,7 @@
   "description": "Flutter GestureDetector Example"
 },
 "Flutter Hero Example": {
-  "prefix": "hero",
+  "prefix": "flutter-Hero",
   "scope":"dart",
   "body": [
     "",
@@ -17545,7 +17545,7 @@
   "description": "Flutter Hero Example"
 },
 "Flutter Network Image Example": {
-  "prefix": "network image",
+  "prefix": "flutter-Image.network",
   "scope":"dart",
   "body": [
     "",
@@ -17624,7 +17624,7 @@
   "description": "Flutter Network Image Example"
 },
 "Flutter AnimatedAlign Example": {
-  "prefix": "animated align",
+  "prefix": "flutter-AnimatedAlign",
   "scope":"dart",
   "body": [
     "",
@@ -17687,7 +17687,7 @@
   "description": "Flutter AnimatedAlign Example"
 },
 "Flutter AnimatedContainer Example": {
-  "prefix": "animated container",
+  "prefix": "flutter-AnimatedContainer",
   "scope":"dart",
   "body": [
     "",
@@ -17750,7 +17750,7 @@
   "description": "Flutter AnimatedContainer Example"
 },
 "Flutter AnimatedFractionallySizedBox Example": {
-  "prefix": "animated fractionally sizedbox",
+  "prefix": "flutter-AnimatedFractionallySizedBox",
   "scope":"dart",
   "body": [
     "",
