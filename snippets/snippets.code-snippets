@@ -15165,7 +15165,7 @@
   "description": "Flutter ClipRRect Example"
 },
 "Flutter CustomMultiChildLayout Example": {
-  "prefix": "flutter-custom multichild layout",
+  "prefix": "flutter-CustomMultiChildLayout",
   "scope":"dart",
   "body": [
     "",
