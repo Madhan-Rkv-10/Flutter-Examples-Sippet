@@ -13753,7 +13753,7 @@
   "description": "Flutter  AnimatedList  Example"
 },
 "Flutter  Animatedsize  Example": {
-  "prefix": "flutter-animated size",
+  "prefix": "flutter-AnimatedSize",
   "scope":"dart",
   "body": [
     "",
