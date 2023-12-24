@@ -15290,7 +15290,7 @@
   "description": "Flutter CustomMultiChildLayout Example"
 },
 "Flutter Expanded Example": {
-  "prefix": "expanded",
+  "prefix": "flutter-Expanded",
   "scope":"dart",
   "body": [
     "",
