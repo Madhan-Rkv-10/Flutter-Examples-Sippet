@@ -11378,7 +11378,7 @@
   "description": "Flutter  TabController Example"
 },
 "Flutter  Tab bar Example": {
-  "prefix": "flutter-tabbar",
+  "prefix": "flutter-TabBar",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
