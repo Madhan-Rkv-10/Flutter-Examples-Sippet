@@ -13992,7 +13992,7 @@
   "description": "Flutter  AppLifecycleListener  Example"
 },
 "Flutter  AppLifecycleListener  Example": {
-  "prefix": "flutter-app lifecycle listener 2",
+  "prefix": "flutter-AppLifecycleListener_two",
   "scope":"dart",
   "body": [
     "",
