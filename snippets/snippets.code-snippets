@@ -14564,7 +14564,7 @@
   "description": "Flutter Split RawAutocomplete  Example"
 },
 "Flutter DropdowFormField  Example": {
-  "prefix": "Flutter-DropdowFormField",
+  "prefix": "flutter-DropdowFormField",
   "scope":"dart",
   "body": [
     "",
@@ -14645,7 +14645,7 @@
   "description": "Flutter DropdowFormField  Example"
 },
 "Flutter AutofillGroup  Example": {
-  "prefix": "Flutter-autofill group",
+  "prefix": "flutter-AutofillGroup",
   "scope":"dart",
   "body": [
     "",
@@ -14775,7 +14775,7 @@
   "description": "Flutter AutofillGroup  Example"
 },
 "Flutter AbsorbPointer  Example": {
-  "prefix": "Flutter-absorb pointer",
+  "prefix": "Flutter-AbsorbPointer",
   "scope":"dart",
   "body": [
     ".",
