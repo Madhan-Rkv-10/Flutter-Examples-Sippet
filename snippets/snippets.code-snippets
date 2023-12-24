@@ -18731,7 +18731,7 @@
   "description": "Flutter InteractiveViewer.constrained Example"
 },
 "Flutter InteractiveViewer.transformationController Example": {
-  "prefix": "interactiveViewer transformationController",
+  "prefix": "flutter-InteractiveViewer_transformationController",
   "scope":"dart",
   "body": [
     "",
