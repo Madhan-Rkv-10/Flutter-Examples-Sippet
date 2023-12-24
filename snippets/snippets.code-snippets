@@ -12627,8 +12627,8 @@
   "description": "Flutter  Time picker, Radio button  Example"
 },
 "Flutter  Toggle Button  Example": {
-  "prefix": "flutter-togglebutton",
-"scope":"dart",
+  "prefix": "flutter-ToggleButtons",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
