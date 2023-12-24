@@ -18441,7 +18441,7 @@
   "description": "Flutter InheritedNotifier Example"
 },
 "Flutter InheritedTheme Example": {
-  "prefix": "inherited theme",
+  "prefix": "flutter-InheritedTheme",
   "scope":"dart",
   "body": [
     "",
