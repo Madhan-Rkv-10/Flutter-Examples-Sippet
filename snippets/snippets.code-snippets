@@ -13817,7 +13817,7 @@
   "description": "Flutter  Animatedsize  Example"
 },
 "Flutter  AnimatedSwitcher  Example": {
-  "prefix": "flutter-animated switcher",
+  "prefix": "flutter-AnimatedSwitcher",
   "scope":"dart",
   "body": [
     "",
