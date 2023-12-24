@@ -14201,7 +14201,7 @@
   "description": "Flutter  FutureBuilder  Example"
 },
 "Flutter  StreamBuilder  Example": {
-  "prefix": "Flutter-streambuilder ",
+  "prefix": "Flutter-StreamBuilder ",
   "scope":"dart",
   "body": [
     "",
