@@ -20723,7 +20723,7 @@
   "description": "Flutter PopupRoute Example"
 },
 "Flutter show Dialog Custom Example": {
-  "prefix": "show dialog custom",
+  "prefix": "flutter-show dialog custom",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -20815,7 +20815,7 @@
   "description": "Flutter show Dialog Custom Example"
 },
 "Flutter showGeneralDialogExample": {
-  "prefix": "show general dialog",
+  "prefix": "flutter-showGeneralDialog",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
