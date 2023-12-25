@@ -20302,7 +20302,7 @@
   "description": "Flutter PageStorage Example , It persist page data"
 },
 "Flutter PageView Example": {
-  "prefix": "page view",
+  "prefix": "flutter-PageView",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
