@@ -20532,8 +20532,8 @@
   "description": "Flutter Extend appbar Example"
 },
 "Flutter RestorationMixin Example": {
-  "prefix": "restoration ",
-"scope":"dart",
+  "prefix": "flutter-RestorationMixin",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
