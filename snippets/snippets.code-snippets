@@ -21632,7 +21632,7 @@
   "description": "Flutter ListTile To Grid Example"
 },
 "Flutter RawScrollbar Example": {
-  "prefix": "scrollbar raw",
+  "prefix": "flutter-RawScrollbar",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
