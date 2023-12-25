@@ -20873,7 +20873,7 @@
   "description": "Flutter showGeneralDialogExample"
 },
 "Flutter ScrollNotificationObserver": {
-  "prefix": "flutter-scroll notification observer",
+  "prefix": "flutter-ScrollNotificationObserver",
 "scope":"dart",
   "body": [
     "",
