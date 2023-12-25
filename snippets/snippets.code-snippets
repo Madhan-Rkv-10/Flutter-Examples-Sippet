@@ -19614,7 +19614,7 @@
   "description": "Flutter NestedScrollView  With Snapping Example"
 },
 "Flutter Scroll Notification  W Example": {
-  "prefix": "scroll notification",
+  "prefix": "flutter-ScrollNotification",
   "scope":"dart",
   "body": [
     "import 'package:flutter/material.dart';",
