@@ -19293,7 +19293,7 @@
   "description": "Flutter RestorableRouteFuture Example"
 },
 "Flutter NestedScrollViewState Example": {
-  "prefix": "nested_scroll_view",
+  "prefix": "flutter-NestedScrollViewState",
   "scope":"dart",
   "body": [
     "",
