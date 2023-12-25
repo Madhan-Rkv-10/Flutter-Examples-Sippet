@@ -19348,7 +19348,7 @@
   "description": "Flutter NestedScrollViewState Example"
 },
 "Flutter NestedScrollView  With TabExample": {
-  "prefix": "nested_scroll_view with tab ",
+  "prefix": "flutter-NestedScrollView_tab",
   "scope":"dart",
   "body": [
     "",
@@ -19488,7 +19488,7 @@
   "description": "Flutter NestedScrollView  With TabExample"
 },
 "Flutter NestedScrollView  With Floating Example": {
-  "prefix": "nested_scroll_view with floating ",
+  "prefix": "flutter-NestedScrollView_floating",
   "scope":"dart",
   "body": [
     "",
