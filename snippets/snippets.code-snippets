@@ -21298,7 +21298,7 @@
   "description": "Flutter ScrollController with Onscroll"
 },
 "Flutter CustomScrollView Example": {
-  "prefix": "customscrollview",
+  "prefix": "flutter-CustomScrollView",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
