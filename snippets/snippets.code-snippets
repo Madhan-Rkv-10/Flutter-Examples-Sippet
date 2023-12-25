@@ -19781,7 +19781,7 @@
   "description": "Flutter OverflowBar Example"
 },
 "Flutter OverlayPortal Example": {
-  "prefix": "overlay portal",
+  "prefix": "flutter-OverlayPortal",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -19843,7 +19843,7 @@
   "description": "Flutter OverlayPortal Example"
 },
 "Flutter Overlay Example": {
-  "prefix": " flutter-overlay",
+  "prefix": "flutter-Overlay",
 "scope":"dart",
   "body": [
     "",
