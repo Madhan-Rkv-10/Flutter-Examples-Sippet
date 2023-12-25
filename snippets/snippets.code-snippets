@@ -20443,7 +20443,7 @@
   "description": "Flutter PreferredSize Example"
 },
 "Flutter Extend appbar Example": {
-  "prefix": "appbar custom",
+  "prefix": "flutter-Appbar-custom",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
