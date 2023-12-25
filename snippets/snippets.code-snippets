@@ -21018,7 +21018,7 @@
   "description": "Flutter ScrollNotificationObserver"
 },
 "Flutter ScrollController & ScrollNotification": {
-  "prefix": "scroll controller & notification",
+  "prefix": "flutter-ScrollController&ScrollNotification",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
