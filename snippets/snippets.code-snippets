@@ -20633,7 +20633,7 @@
   "description": "Flutter RestorationMixin Example"
 },
 "Flutter PopupRoute Example": {
-  "prefix": "popup route ",
+  "prefix": "flutter-PopupRoute",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
