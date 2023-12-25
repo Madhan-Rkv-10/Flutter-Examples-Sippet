@@ -20354,7 +20354,7 @@
   "description": "Flutter PageView Example"
 },
 "Flutter PreferredSize Example": {
-  "prefix": "preferredsize",
+  "prefix": "flutter-PreferredSize",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
