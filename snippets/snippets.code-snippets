@@ -19546,7 +19546,7 @@
   "description": "Flutter NestedScrollView  With Floating Example"
 },
 "Flutter NestedScrollView  With Snapping Example": {
-  "prefix": "nested_scroll_view with snapping ",
+  "prefix": "flutter-NestedScrollView_snapping",
   "scope":"dart",
   "body": [
     "",
