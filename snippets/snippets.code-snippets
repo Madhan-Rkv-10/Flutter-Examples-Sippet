@@ -19706,7 +19706,7 @@
   "description": "Flutter Scroll Notification   Example"
 },
 "Flutter OverflowBar Example": {
-  "prefix": "overflowBar",
+  "prefix": "flutte-OverflowBar",
   "scope":"dart",
   "body": [
     "",
