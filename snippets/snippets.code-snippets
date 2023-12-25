@@ -21727,7 +21727,7 @@
   "description": "Flutter RawScrollbar Example"
 },
 "Flutter RawScrollbar Example": {
-  "prefix": "raw scrollbar",
+  "prefix": "flutter-raw scrollbar",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
