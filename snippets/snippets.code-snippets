@@ -20207,7 +20207,7 @@
   "description": "Flutter GlowingOverscrollIndicator Example"
 },
 "Flutter PageStorage Example": {
-  "prefix": "page storage",
+  "prefix": "flutter-PageStorage",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
