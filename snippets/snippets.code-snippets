@@ -22165,7 +22165,7 @@
   "description": "Flutter Shortcuts Example"
 },
 "Flutter SingleChildScrollView Example": {
-  "prefix": "singlechildscrollview",
+  "prefix": "flutter-SingleChildScrollView",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
