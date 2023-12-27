@@ -22739,7 +22739,7 @@
   "description": "Flutter SliverFillRemaining Example"
 },
 "Flutter SliverFillRemaining with SliverFixedExtentList  Example": {
-  "prefix": "sliverfill with fixedextendlist ",
+  "prefix": "flutter-SliverFillRemaining_with_SliverFixedExtentList",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
