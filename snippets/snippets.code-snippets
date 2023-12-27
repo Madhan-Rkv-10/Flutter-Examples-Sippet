@@ -22682,8 +22682,8 @@
   "description": "Flutter SliverOpacity Example"
 },
 "Flutter SliverFillRemaining Example": {
-  "prefix": "sliverfill remaining",
-"scope":"dart",
+  "prefix": "flutter-SliverFillRemaining",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
