@@ -22081,7 +22081,7 @@
   "description": "Flutter SharedAppData custom Example"
 },
 "Flutter Shortcuts Example": {
-  "prefix": "shortcuts",
+  "prefix": "flutter-Shortcuts",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
