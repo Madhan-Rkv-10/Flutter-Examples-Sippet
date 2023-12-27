@@ -22295,7 +22295,7 @@
   "description": "Flutter SliverDecoration Example"
 },
 "Flutter SliverConstrained Example": {
-  "prefix": "sliver constrained",
+  "prefix": "flutter-SliverConstrainedCrossAxis",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
