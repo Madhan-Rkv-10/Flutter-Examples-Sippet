@@ -22234,7 +22234,7 @@
   "description": "Flutter SingleChildScrollView Example"
 },
 "Flutter SliverDecoration Example": {
-  "prefix": "sliver decoration",
+  "prefix": "flutter-SliverDecoration",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
