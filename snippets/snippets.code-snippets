@@ -22604,7 +22604,7 @@
   "description": "Flutter SliverMainAxis Group Example"
 },
 "Flutter SliverOpacity Example": {
-  "prefix": "sliver opacity",
+  "prefix": "flutter-SliverOpacity",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
