@@ -22444,7 +22444,7 @@
   "description": "Flutter SliverCrossAxis Example"
 },
 "Flutter SliverMainAxis Group Example": {
-  "prefix": "sliver mainaxis group",
+  "prefix": "flutter-SliverMainAxisGroup",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
