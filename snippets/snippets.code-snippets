@@ -24515,7 +24515,7 @@
   "description": "Flutter ValueNotifier Example"
 },
 "Flutter ValueNotifier Example": {
-  "prefix": "listenable builder with value notifier",
+  "prefix": "flutter-ValueNotifier_ListenableBuilder",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
