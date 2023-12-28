@@ -27038,7 +27038,7 @@
   "description": "Flutter BorderSide.stroke Example"
 },
 "Flutter AxisDirection Example": {
-  "prefix": "axis direction",
+  "prefix": "flutter-AxisDirection",
   "body": [
     "import 'package:flutter/material.dart';",
     "",
