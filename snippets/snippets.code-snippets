@@ -24834,7 +24834,8 @@
   "description": "Flutter ChangeNotifier with ListenableBuilder  Example"
 },
 "Flutter RelativePositionedTransition Example": {
-  "prefix": "relative positioned transition",
+  "prefix": "flutter-RelativePositionedTransition",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
