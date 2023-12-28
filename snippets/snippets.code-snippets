@@ -26576,7 +26576,7 @@
   "description": "Flutter Mouse Region Example"
 },
 "Flutter systemOverlayStyle Example": {
-  "prefix": "system overlay style",
+  "prefix": "flutter-systemOverlayStyle",
   "body": [
     "",
     "import 'dart:math' as math;",
