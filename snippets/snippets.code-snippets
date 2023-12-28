@@ -26371,7 +26371,8 @@
   "description": "Flutter LogicalKeyboardKey Example"
 },
 "Flutter PhysicalKeyboardKey Example": {
-  "prefix": "physical keyboardkey",
+  "prefix": "flutter-PhysicalKeyboardKey",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/foundation.dart';",
