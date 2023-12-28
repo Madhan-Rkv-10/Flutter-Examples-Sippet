@@ -24267,7 +24267,7 @@
   "description": "Flutter FadeTransition Example"
 },
 "Flutter ListenableBuilder Example": {
-  "prefix": "listenable builder",
+  "prefix": "flutter-ListenableBuilder",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
