@@ -28103,7 +28103,7 @@
   "description": "Flutter StarBorder Example"
 },
 "Flutter GrowthDirection Example": {
-  "prefix": "growth direction",
+  "prefix": "flutter-GrowthDirection",
   "body": [
     "import 'package:flutter/material.dart';",
     "import 'package:flutter/rendering.dart';",
