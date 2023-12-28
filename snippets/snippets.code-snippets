@@ -23453,7 +23453,7 @@
   "description": "Flutter TextFieldTapRegion  Example"
 },
 "Flutter Magnifier  Example": {
-  "prefix": "magnifier",
+  "prefix": "flutter-Magnifier",
   "body": [
     "",
     "import 'package:flutter/foundation.dart';",
