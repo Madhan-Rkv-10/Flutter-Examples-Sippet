@@ -29556,6 +29556,7 @@
 },
 "Flutter CupertinoActionSheet  Example": {
   "prefix": "flutter-CupertinoActionSheet",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
