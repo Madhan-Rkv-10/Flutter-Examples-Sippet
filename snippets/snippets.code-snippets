@@ -26067,6 +26067,7 @@
 },
 "Flutter WillPopScope Example": {
   "prefix": "flutter-WillPopScope",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -26147,7 +26148,8 @@
   "description": "Flutter WillPopScope Example"
 },
 "Flutter ServicesBinding.handleRequestAppExit Example": {
-  "prefix": "app exit",
+  "prefix": "flutter-AppExit",
+  "scope":"dart",
   "body": [
     "",
     "import 'dart:ui';",
