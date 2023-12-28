@@ -23976,7 +23976,8 @@
   "description": "Flutter DecoratedBoxTransition Example"
 },
 "Flutter DefaultTextStyleTransition Example": {
-  "prefix": "default textstyle transition",
+  "prefix": "flutter-DefaultTextStyleTransition",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
