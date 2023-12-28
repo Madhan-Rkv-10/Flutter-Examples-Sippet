@@ -23200,6 +23200,7 @@
 },
 "Flutter TextFieldTapRegion  Example": {
   "prefix": "flutter-TextFieldTapRegion",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -23454,6 +23455,7 @@
 },
 "Flutter Magnifier  Example": {
   "prefix": "flutter-Magnifier",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/foundation.dart';",
@@ -23573,6 +23575,7 @@
 },
 "Flutter AlignTransition  Example": {
   "prefix": "flutter-AlignTransition",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -23650,6 +23653,7 @@
 },
 "Flutter AlignTransition  Example": {
   "prefix": "transition align",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -23727,7 +23731,7 @@
 },
 
 "Flutter AnimatedBuilder  Example": {
-  "prefix": "animated builder",
+  "prefix": "flutter-AnimatedBuilder",
   "body": [
     "",
     "import 'dart:math' as math;",
