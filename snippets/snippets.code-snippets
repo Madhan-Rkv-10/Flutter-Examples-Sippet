@@ -23109,7 +23109,7 @@
   "description": "Flutter SlottedMultiChildRenderObjectWidget  Example"
 },
 "Flutter Table  Example": {
-  "prefix": "table",
+  "prefix": "flutter-Table",
 "scope":"dart",
   "body": [
     "",
