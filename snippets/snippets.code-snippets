@@ -28643,7 +28643,7 @@
   "description": "Flutter SliverGridDelegateWithFixedCrossAxisCount Example"
 }
 ,"Flutter CupertinoActivityIndicator Example": {
-  "prefix": "cupertino activity indicator",
+  "prefix": "flutter-CupertinoActivityIndicator",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
