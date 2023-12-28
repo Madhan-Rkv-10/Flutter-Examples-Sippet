@@ -26824,7 +26824,8 @@
   ],
   "description": "Flutter TextInputControl Example"
 },"Flutter BorderSide.stroke Example": {
-  "prefix": "borderside stroke",
+  "prefix": "flutter-BorderSide.strokeAlign",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
