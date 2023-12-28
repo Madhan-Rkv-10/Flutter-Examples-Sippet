@@ -24667,7 +24667,7 @@
   "description": "Flutter ChangeNotifier with ListenableBuilder  Example"
 },
 "Flutter ChangeNotifier with ListenableBuilder  Example": {
-  "prefix": "listenable builder two",
+  "prefix": "flutter-ListenableBuilder_two",
   "body": [
     "import 'package:flutter/material.dart';",
     "",
