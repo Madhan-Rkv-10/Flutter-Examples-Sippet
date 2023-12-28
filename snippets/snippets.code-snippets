@@ -25414,7 +25414,7 @@
   ],
   "description": "Flutter SizeTransition Example"
 },"Flutter SlideTransition Example": {
-  "prefix": "slide transition",
+  "prefix": "flutter-SlideTransition",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
