@@ -26066,7 +26066,7 @@
   "description": "Flutter contextmenu Example"
 },
 "Flutter WillPopScope Example": {
-  "prefix": "willpop scope",
+  "prefix": "flutter-WillPopScope",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
