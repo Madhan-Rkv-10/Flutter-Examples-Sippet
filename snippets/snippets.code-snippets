@@ -25216,7 +25216,7 @@
   "description": "Flutter ScaleTransition Example"
 },
 "Flutter ScaleTransition Example": {
-  "prefix": "scale transition",
+  "prefix": "transition scale",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25283,7 +25283,7 @@
   "description": "Flutter ScaleTransition Example"
 },
 "Flutter SizeTransition Example": {
-  "prefix": "size transition",
+  "prefix": "flutter-SizeTransition",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
