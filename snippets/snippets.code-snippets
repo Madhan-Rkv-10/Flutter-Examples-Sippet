@@ -23199,7 +23199,7 @@
   "description": "Flutter Table  Example"
 },
 "Flutter TextFieldTapRegion  Example": {
-  "prefix": "textfield tapregion",
+  "prefix": "flutter-TextFieldTapRegion",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
