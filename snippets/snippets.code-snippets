@@ -25080,6 +25080,7 @@
 },
 "Flutter RotationTransition Example": {
   "prefix": "transition rotation",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25147,7 +25148,8 @@
   "description": "Flutter RotationTransition Example"
 },
 "Flutter ScaleTransition Example": {
-  "prefix": "transition scale",
+  "prefix": "flutter-ScaleTransition",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
