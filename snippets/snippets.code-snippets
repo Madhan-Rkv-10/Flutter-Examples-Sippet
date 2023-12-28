@@ -23881,7 +23881,8 @@
   "description": "Flutter AnimatedWidget Example"
 },
 "Flutter DecoratedBoxTransition Example": {
-  "prefix": "decoratedbox transition",
+  "prefix": "flutter-DecoratedBoxTransition",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
