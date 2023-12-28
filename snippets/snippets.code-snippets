@@ -27316,7 +27316,7 @@
   ],
   "description": "Flutter LinearGradient Example"
 },"Flutter Linear Border Example": {
-  "prefix": "linear border",
+  "prefix": "flutter-LinearBorder",
   "body": [
     "// Examples of LinearBorder and LinearBorderEdge.",
     "",
