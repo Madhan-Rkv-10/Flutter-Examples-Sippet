@@ -28644,6 +28644,7 @@
 }
 ,"Flutter CupertinoActivityIndicator Example": {
   "prefix": "flutter-CupertinoActivityIndicator",
+  "Scope": "dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
@@ -28722,7 +28723,8 @@
   "description": "Flutter CupertinoActivityIndicator Example"
 },
 "Flutter CupertinoTabBar Example": {
-  "prefix": "cupertino tab bar",
+  "prefix": "flutter-CupertinoTabBar",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
@@ -28864,7 +28866,8 @@
   "description": "Flutter Cupertino AppBar Example"
 },
 "Flutter Cupertino BottomNavigation Bar Example": {
-  "prefix": "cupertino bottom navigation bar",
+  "prefix": "flutter-cupertino bottom navigation bar",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
@@ -28935,7 +28938,8 @@
   "description": "Flutter Cupertino BottomNavigation Bar Example"
 },
 "Flutter Cupertino Buttons Bar Example": {
-  "prefix": "cupertino buttons",
+  "prefix": "flutter-CupertinoButton",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
@@ -28998,7 +29002,8 @@
   "description": "Flutter Cupertino Buttons  Example"
 },
 "Flutter CupertinoContextMenu  Example": {
-  "prefix": "cupertino context menu",
+  "prefix": "flutter-CupertinoContextMenu",
+  "scope":"dart".
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "import 'package:flutter/material.dart';",
