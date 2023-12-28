@@ -25795,7 +25795,7 @@
   ],
   "description": "Flutter TweenAnimationBuilder Example"
 },"Flutter Animation Example": {
-  "prefix": "animation",
+  "prefix": "flutter-Animation",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
