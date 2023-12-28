@@ -26268,7 +26268,8 @@
   "description": "Flutter ServicesBinding.handleRequestAppExit Example"
 },
 "Flutter LogicalKeyboardKey Example": {
-  "prefix": "logical keyboardkey",
+  "prefix": "flutter-LogicalKeyboardKey",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/foundation.dart';",
