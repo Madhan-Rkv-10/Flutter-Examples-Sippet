@@ -29211,6 +29211,7 @@
 },
 "Flutter CupertinoDatePicker  Example": {
   "prefix": "flutter-CupertinoDatePicker",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
@@ -29411,7 +29412,8 @@
   "description": "Flutter CupertinoDatePicker  Example"
 },
 "Flutter CupertinoTimerPicker  Example": {
-  "prefix": "cupertino time picker",
+  "prefix": "flutter-CupertinoTimerPicker",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
