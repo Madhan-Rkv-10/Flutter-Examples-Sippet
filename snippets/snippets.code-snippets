@@ -25217,6 +25217,7 @@
 },
 "Flutter ScaleTransition Example": {
   "prefix": "transition scale",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25284,6 +25285,7 @@
 },
 "Flutter SizeTransition Example": {
   "prefix": "flutter-SizeTransition",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25350,6 +25352,7 @@
 },
 "Flutter SizeTransition Example": {
   "prefix": "transition size",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25415,6 +25418,7 @@
   "description": "Flutter SizeTransition Example"
 },"Flutter SlideTransition Example": {
   "prefix": "flutter-SlideTransition",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25482,6 +25486,7 @@
   "description": "Flutter SlideTransition Example"
 },"Flutter SlideTransition Example": {
   "prefix": "transition slide",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25550,6 +25555,7 @@
 },
 "Flutter SliverFadeTransition": {
   "prefix": "flutter-SliverFadeTransition",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25638,6 +25644,7 @@
   "description": "Flutter SliverFadeTransition"
 },"Flutter SliverFadeTransition": {
   "prefix": "transition sliverfade",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25726,7 +25733,7 @@
   "description": "Flutter SliverFadeTransition"
 },
 "Flutter TweenAnimationBuilder Example": {
-  "prefix": "tweenAnimation builder",
+  "prefix": "flutter-TweenAnimationBuilder",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
