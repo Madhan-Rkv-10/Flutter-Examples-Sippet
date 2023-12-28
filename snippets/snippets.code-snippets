@@ -25858,7 +25858,7 @@
   "description": "Flutter Animation Example"
 },
 "Flutter UndoHistoryController Example": {
-  "prefix": "undohistory controller",
+  "prefix": "flutter-UndoHistoryController",
   "body": [
     "",
     "import 'dart:developer';",
