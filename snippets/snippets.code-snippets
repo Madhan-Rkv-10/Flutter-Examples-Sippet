@@ -24059,7 +24059,8 @@
   "description": "Flutter DefaultTextStyleTransition Example"
 },
 "Flutter DefaultTextStyleTransition Example": {
-  "prefix": " transition textstyle",
+  "prefix": "transition textstyle",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -24141,7 +24142,7 @@
   "description": "Flutter DefaultTextStyleTransition Example"
 },
 "Flutter FadeTransition Example": {
-  "prefix": " transition fade",
+  "prefix": "flutter-FadeTransition",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -24203,7 +24204,8 @@
   "description": "Flutter FadeTransition Example"
 },
 "Flutter FadeTransition Example": {
-  "prefix": "fade transition",
+  "prefix": "transition fade",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
