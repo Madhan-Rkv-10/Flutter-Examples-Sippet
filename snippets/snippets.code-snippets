@@ -24922,7 +24922,8 @@
   "description": "Flutter RelativePositionedTransition Example"
 },
 "Flutter RelativePositionedTransition Example": {
-  "prefix": " transition positioned relative ",
+  "prefix": "transition positioned relative ",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25009,7 +25010,8 @@
   "description": "Flutter RelativePositionedTransition Example"
 },
 "Flutter RotationTransition Example": {
-  "prefix": "rotation transition",
+  "prefix": "flutter-RotationTransition",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
