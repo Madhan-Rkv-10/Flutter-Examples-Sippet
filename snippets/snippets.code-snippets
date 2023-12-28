@@ -29085,7 +29085,8 @@
   "description": "Flutter CupertinoContextMenu  Example"
 },
 "Flutter CupertinoContextMenu  Builder Example": {
-  "prefix": "cupertino context menu builder",
+  "prefix": "flutter-CupertinoContextMenu.Builder",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
@@ -29209,7 +29210,7 @@
   "description": "Flutter CupertinoContextMenu  Builder Example"
 },
 "Flutter CupertinoDatePicker  Example": {
-  "prefix": "cupertino date picker",
+  "prefix": "flutter-CupertinoDatePicker",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
