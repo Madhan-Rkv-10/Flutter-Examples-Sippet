@@ -28589,7 +28589,8 @@
   "description": "Flutter ScrollDirection Example"
 },
 "Flutter SliverGridDelegateWithFixedCrossAxisCount Example": {
-  "prefix": "sliverGridDelegateWithFixedCrossAxisCount",
+  "prefix": "flutter-SliverGridDelegateWithFixedCrossAxisCount",
+  "scope":"Dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
