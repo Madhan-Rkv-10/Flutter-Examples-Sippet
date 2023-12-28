@@ -26523,7 +26523,7 @@
   ],
   "description": "Flutter MouseCursor Example"
 },"Flutter Mouse Region Example": {
-  "prefix": "mouse region",
+  "prefix": "flutter-MouseRegion",
   "body": [
     "",
     "import 'dart:developer';",
