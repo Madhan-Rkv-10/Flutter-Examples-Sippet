@@ -24268,6 +24268,7 @@
 },
 "Flutter ListenableBuilder Example": {
   "prefix": "flutter-ListenableBuilder",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -24446,6 +24447,7 @@
 },
 "Flutter ValueNotifier Example": {
   "prefix": "flutter-ValueNotifier",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -24516,6 +24518,7 @@
 },
 "Flutter ValueNotifier Example": {
   "prefix": "flutter-ValueNotifier_ListenableBuilder",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -24585,7 +24588,8 @@
   "description": "Flutter ValueNotifier Example"
 },
 "Flutter ChangeNotifier with ListenableBuilder  Example": {
-  "prefix": "change notifier",
+  "prefix": "flutter-ChangeNotifier",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/material.dart';",
     "",
