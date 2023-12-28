@@ -29555,7 +29555,7 @@
   "description": "Flutter CupertinoTimerPicker  Example"
 },
 "Flutter CupertinoActionSheet  Example": {
-  "prefix": "cupertino action sheet",
+  "prefix": "flutter-CupertinoActionSheet",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
