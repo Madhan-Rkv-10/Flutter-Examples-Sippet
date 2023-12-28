@@ -23572,7 +23572,7 @@
   "description": "Flutter Magnifier  Example"
 },
 "Flutter AlignTransition  Example": {
-  "prefix": "align transition",
+  "prefix": "flutter-AlignTransition",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
