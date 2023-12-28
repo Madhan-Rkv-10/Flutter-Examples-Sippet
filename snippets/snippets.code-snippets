@@ -26475,7 +26475,8 @@
   "description": "Flutter PhysicalKeyboardKey Example"
 },
 "Flutter MouseCursor Example": {
-  "prefix": "mouse cursor",
+  "prefix": "flutter-MouseCursor",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
