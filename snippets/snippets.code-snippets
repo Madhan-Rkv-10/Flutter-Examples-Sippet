@@ -23806,7 +23806,7 @@
   "description": "Flutter AnimatedBuilder  Example"
 },
 "Flutter AnimatedWidget Example": {
-  "prefix": "animated widget",
+  "prefix": "flutter-AnimatedWidget",
   "body": [
     "",
     "import 'dart:math' as math;",
