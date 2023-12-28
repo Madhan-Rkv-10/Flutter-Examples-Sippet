@@ -22800,7 +22800,7 @@
   "description": "Flutter SliverFillRemaining with SliverFixedExtentList  Example"
 },
 "Flutter SlottedMultiChildRenderObjectWidget  Example": {
-  "prefix": "slotted multichild render object",
+  "prefix": "flutter-SlottedMultiChildRenderObjectWidget",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
