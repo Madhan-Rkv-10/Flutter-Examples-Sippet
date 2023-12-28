@@ -28355,7 +28355,8 @@
   "description": "Flutter GrowthDirection Example"
 },
 "Flutter ScrollDirection Example": {
-  "prefix": "scroll direction",
+  "prefix": "flutter-ScrollDirection",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
