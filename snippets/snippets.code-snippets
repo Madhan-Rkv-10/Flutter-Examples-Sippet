@@ -26651,7 +26651,8 @@
   "description": "Flutter systemOverlayStyle Example"
 }
 ,"Flutter TextInputControl Example": {
-  "prefix": "textinput control",
+  "prefix": "flutter-TextInputControl",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/foundation.dart';",
     "import 'package:flutter/material.dart';",
