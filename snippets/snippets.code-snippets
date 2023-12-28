@@ -25549,7 +25549,7 @@
   "description": "Flutter SlideTransition Example"
 },
 "Flutter SliverFadeTransition": {
-  "prefix": "sliverfade transition",
+  "prefix": "flutter-SliverFadeTransition",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
