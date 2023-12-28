@@ -25734,6 +25734,7 @@
 },
 "Flutter TweenAnimationBuilder Example": {
   "prefix": "flutter-TweenAnimationBuilder",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25796,6 +25797,7 @@
   "description": "Flutter TweenAnimationBuilder Example"
 },"Flutter Animation Example": {
   "prefix": "flutter-Animation",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -25859,6 +25861,7 @@
 },
 "Flutter UndoHistoryController Example": {
   "prefix": "flutter-UndoHistoryController",
+  "scope":"dart",
   "body": [
     "",
     "import 'dart:developer';",
@@ -25963,7 +25966,8 @@
   "description": "Flutter UndoHistoryController Example"
 },
 "Flutter contextmenu Example": {
-  "prefix": "contextmenu",
+  "prefix": "flutter-ContextMenu",
+  "scope":"dart",
   "body": [
     "",
     "// This example demonstrates showing the default buttons, but customizing their",
