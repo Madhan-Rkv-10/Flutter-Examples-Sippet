@@ -27039,6 +27039,7 @@
 },
 "Flutter AxisDirection Example": {
   "prefix": "flutter-AxisDirection",
+  "scope": "dart",
   "body": [
     "import 'package:flutter/material.dart';",
     "",
@@ -27253,7 +27254,8 @@
   "description": "Flutter AxisDirection Example"
 },
 "Flutter LinearGradient Example": {
-  "prefix": "linear gradient",
+  "prefix": "flutter-LinearGradient",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
