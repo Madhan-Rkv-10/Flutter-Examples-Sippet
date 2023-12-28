@@ -27643,7 +27643,8 @@
   "description": "Flutter Linear Border Example"
 },
 "Flutter StarBorder Example": {
-  "prefix": "star border",
+  "prefix": "flutter-StarBorder",
+  "scope":"dart",
   "body": [
     "",
     "// An example showing usage of [StarBorder].",
