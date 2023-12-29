@@ -32245,7 +32245,7 @@
   "description": "Flutter Example for input chip"
 },
 "Flutter Tap and Drag Example": {
-  "prefix": "flutter-tap-and-drag",
+  "prefix": "flutter-Tap-and-Drag",
   "scope":"dart",
   "body": [
     "",
@@ -32770,7 +32770,7 @@
   "description": "Flutter [NavigationBar] with nested [Navigator] destinations"
 },
 "Flutter PaginatedDataTable Example": {
-  "prefix": "flutter-paginated-data-table-one",
+  "prefix": "flutter-PaginatedDataTable",
   "sccope":"dart",
   "body": [
     "",
