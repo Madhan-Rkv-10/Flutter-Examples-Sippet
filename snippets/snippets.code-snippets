@@ -30831,7 +30831,7 @@
   "description": "Flutter showCupertinoDialog Example"
 },
 "Flutter showCupertinoModalPopup Example": {
-  "prefix": "flutter-cupertino model popup ",
+  "prefix": "flutter-showCupertinoModalPopup",
   "scope":"dart",
   "body": [
     "",
