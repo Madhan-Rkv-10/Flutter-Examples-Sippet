@@ -30208,7 +30208,8 @@
   "description": "Flutter CupertinoNavigationBar Example"
 },
 "Flutter CupertinoSliverNavigationBar Example": {
-  "prefix": "cupertino sliver navigation bar",
+  "prefix": "flutter-CupertinoSliverNavigationBar",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
