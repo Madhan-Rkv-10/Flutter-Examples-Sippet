@@ -32865,7 +32865,7 @@
   "description": "Flutter PaginatedDataTable Example"
 },
 "Flutter PaginatedDataTable Example": {
-  "prefix": "flutter-paginated-data-table-two",
+  "prefix": "flutter-PaginatedDataTable-two",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
@@ -33179,7 +33179,7 @@
   "description": "Flutter PaginatedDataTable Example"
 },
 "Flutter ThemeData Example": {
-  "prefix": "flutter-themedata-example",
+  "prefix": "flutter-ThemeData",
   "scope":"dart",
   "body": [
     "import 'package:flutter/material.dart';",
