@@ -31809,7 +31809,8 @@
   "description": "Flutter CupertinoTextField  Example"
 },
 "Flutter CupertinoTextFormFieldRow  Example": {
-  "prefix": "cupertino textformfield row",
+  "prefix": "flutter-CupertinoTextFormFieldRow",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
