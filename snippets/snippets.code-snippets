@@ -30325,7 +30325,7 @@
   "description": "Flutter CupertinoSliverNavigationBar Example"
 },
 "Flutter CupertinoPageScaffold Example": {
-  "prefix": "cupertino pageScaffold",
+  "prefix": "flutter-CupertinoPageScaffold",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
