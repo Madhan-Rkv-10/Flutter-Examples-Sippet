@@ -35933,7 +35933,7 @@
   "description": "Flutter MatrixTransition Example"
 },
 "Flutter AdaptiveTextSelectionToolbar Example": {
-  "prefix": "flutter-adaptiveSelectionToolbar",
+  "prefix": "flutter-AdaptiveTextSelectionToolbar",
   "scope":"dart",
   "body": [
     "",
