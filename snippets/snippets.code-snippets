@@ -31425,7 +31425,8 @@
   "description": "Flutter CupertinoSlider  Example"
 },
 "Flutter UserAccountsDrawerHeader  Example": {
-  "prefix": "user-accounts-drawer-header",
+  "prefix": "flutter-UserAccountsDrawerHeader",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/material.dart';",
     "",
