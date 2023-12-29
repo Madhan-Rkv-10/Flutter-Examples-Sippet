@@ -31745,7 +31745,8 @@
   "description": "Flutter CupertinoTabScaffold  Example"
 },
 "Flutter CupertinoTextField  Example": {
-  "prefix": "cupertino textfield",
+  "prefix": "flutter-CupertinoTextField",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
