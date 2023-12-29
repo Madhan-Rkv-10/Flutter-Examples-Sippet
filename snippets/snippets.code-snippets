@@ -34901,7 +34901,7 @@
   "description": "Flutter Constraints Example"
 },
 "Flutter Chip Input with search": {
-  "prefix": "flutter-chip-input-search",
+  "prefix": "flutter-InputChip-search",
   "scope":"dart",
   "body": [
     "",
