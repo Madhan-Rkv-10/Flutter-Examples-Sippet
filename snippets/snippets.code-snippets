@@ -31514,7 +31514,7 @@
   "description": "Flutter UserAccountsDrawerHeader  Example"
 },
 "Flutter CupertinoSwitch  Example": {
-  "prefix": "cupertino switch",
+  "prefix": "flutter-CupertinoSwitch",
   "scope":"dart",
   "body": [
     "",
