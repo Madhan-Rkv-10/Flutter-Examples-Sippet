@@ -35852,7 +35852,7 @@
   "description": "Flutter Custom GridView"
 },
 "Flutter MatrixTransition Example": {
-  "prefix": "flutter-matrixTransision",
+  "prefix": "flutter-MatrixTransition",
   "scope":"dart",
   "body": [
     "",
