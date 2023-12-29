@@ -31237,6 +31237,7 @@
 },
 "Flutter CupertinoSlidingSegmentedControl  Example": {
   "prefix": "cupertino sliding segmented control ",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
@@ -31333,7 +31334,7 @@
   "description": "Flutter CupertinoSlidingSegmentedControl  Example"
 },
 "Flutter CupertinoSlider  Example": {
-  "prefix": "cupertino slider ",
+  "prefix": "flutter-CupertinoSlider",
   "scope":"dart",
   "body": [
     "",
