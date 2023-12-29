@@ -30905,7 +30905,7 @@
   "description": "Flutter showCupertinoModalPopup Example"
 },
 "Flutter CupertinoScrollbar  Example": {
-  "prefix": "cupertino scrollbar ",
+  "prefix": "flutter-CupertinoScrollbar",
   "scope":"dart",
   "body": [
     "",
