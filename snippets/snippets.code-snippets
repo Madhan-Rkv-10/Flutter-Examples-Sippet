@@ -35275,7 +35275,7 @@
   "description": "Flutter Chip Input with search"
 },
 "Flutter Chip Input with search": {
-  "prefix": "flutter-input-chip-search",
+  "prefix": "flutter-chip-input-search",
   "scope":"dart",
   "body": [
     "",
@@ -35649,7 +35649,7 @@
   "description": "Flutter Chip Input with search"
 },
 "Flutter Custom GridView": {
-  "prefix": "flutter-custom-gridview",
+  "prefix": "flutter-CustomGridView",
   "scope":"dart",
   "body": [
     "",
