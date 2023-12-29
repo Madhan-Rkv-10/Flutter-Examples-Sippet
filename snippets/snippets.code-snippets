@@ -33602,6 +33602,7 @@
 },
 "Flutter Form with Confirmation Dialog": {
   "prefix": "flutter-form-with-confirm-dialog",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/material.dart';",
