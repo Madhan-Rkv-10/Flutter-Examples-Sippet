@@ -29715,7 +29715,8 @@
   "description": "Flutter CupertinoAlertDialog  Example"
 },
 "Flutter CupertinoFormRow  Example": {
-  "prefix": "cupertino form row",
+  "prefix": "flutter-CupertinoFormRow",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
