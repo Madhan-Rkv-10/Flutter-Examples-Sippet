@@ -29864,7 +29864,8 @@
   "description": "Flutter CupertinoFormRow  Example"
 },
 "Flutter CupertinoListTile  Example": {
-  "prefix": "cupertino listtile",
+  "prefix": "flutter-CupertinoListSection",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
