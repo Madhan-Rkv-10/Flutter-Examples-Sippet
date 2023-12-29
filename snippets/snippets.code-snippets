@@ -29638,7 +29638,8 @@
   "description": "Flutter CupertinoActionSheet  Example"
 },
 "Flutter CupertinoAlertDialog  Example": {
-  "prefix": "cupertino alert dialog",
+  "prefix": "flutter-CupertinoAlertDialog",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
