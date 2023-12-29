@@ -33423,7 +33423,7 @@
   "description": "Flutter ImageProvider Example"
 },
 "Flutter ImageProvider Actions": {
-  "prefix": "flutter-actions-example",
+  "prefix": "flutter-Actions",
   "scope":"dart",
   "body": [
     "",
