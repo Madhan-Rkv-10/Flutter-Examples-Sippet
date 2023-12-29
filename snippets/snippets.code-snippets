@@ -30755,7 +30755,8 @@
   "description": "Flutter CupertinoSliverRefreshControl Example"
 },
 "Flutter showCupertinoDialog Example": {
-  "prefix": "cupertino Dialog ",
+  "prefix": "flutter-showCupertinoDialog",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
