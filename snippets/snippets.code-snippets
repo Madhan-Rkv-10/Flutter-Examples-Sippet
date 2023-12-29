@@ -31573,7 +31573,8 @@
   "description": "Flutter CupertinoSwitch  Example"
 },
 "Flutter CupertinoTab  Example": {
-  "prefix": "cupertino tab bar",
+  "prefix": "flutter-CupertinoTabController",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
@@ -31654,7 +31655,8 @@
   "description": "Flutter CupertinoTab  Example"
 },
 "Flutter CupertinoTabScaffold  Example": {
-  "prefix": "cupertino tab scaffold",
+  "prefix": "flutter-CupertinoTabScaffold",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
