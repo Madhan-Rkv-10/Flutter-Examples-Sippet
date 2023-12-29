@@ -30671,7 +30671,8 @@
   "description": "Flutter CupertinoRadio Example"
 },
 "Flutter CupertinoSliverRefreshControl Example": {
-  "prefix": "cupertino sliver refresh ",
+  "prefix": "flutter-CupertinoSliverRefreshControl",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
