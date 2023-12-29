@@ -33300,7 +33300,7 @@
   "description": "Flutter ThemeData Example"
 },
 "Flutter ImageProvider Example": {
-  "prefix": "flutter-image-provider",
+  "prefix": "flutter-ImageProvider",
   "scope":"dart",
   "body": [
     "",
