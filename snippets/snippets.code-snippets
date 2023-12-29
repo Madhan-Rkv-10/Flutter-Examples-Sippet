@@ -30326,6 +30326,7 @@
 },
 "Flutter CupertinoPageScaffold Example": {
   "prefix": "flutter-CupertinoPageScaffold",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
@@ -30388,7 +30389,8 @@
   "description": "Flutter CupertinoPageScaffold Example"
 },
 "Flutter CupertinoPicker  Example": {
-  "prefix": "cupertino picker ",
+  "prefix": "flutter-CupertinoPicker",
+  "scope":"dart",
   "body": [
     "",
     "import 'package:flutter/cupertino.dart';",
