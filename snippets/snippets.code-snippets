@@ -30514,7 +30514,8 @@
   "description": "Flutter CupertinoPicker  Example"
 },
 "Flutter CupertinoRadio Example": {
-  "prefix": "cupertino radio ",
+  "prefix": "flutter-CupertinoRadio",
+  "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
@@ -30590,7 +30591,8 @@
   "description": "Flutter CupertinoRadio Example"
 },
 "Flutter CupertinoRadio Example": {
-  "prefix": "cupertino radio toggleable ",
+  "prefix": "flutter-CupertinoRadio.toggleable",
+  "Scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
     "",
