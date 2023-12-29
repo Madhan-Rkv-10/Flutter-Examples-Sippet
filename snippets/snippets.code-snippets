@@ -30961,7 +30961,7 @@
   "description": "Flutter CupertinoScrollbar  Example"
 },
 "Flutter CupertinoSearchTextField  Example": {
-  "prefix": "cupertino search textfield ",
+  "prefix": "flutter-CupertinoSearchTextField",
   "scope":"dart",
   "body": [
     "import 'package:flutter/cupertino.dart';",
@@ -31027,7 +31027,7 @@
   "description": "Flutter CupertinoSearchTextField  Example"
 },
 "Flutter CupertinoSegmentedControl  Example": {
-  "prefix": "cupertino segmented control ",
+  "prefix": "flutter-CupertinoSegmentedControl",
   "scope":"dart",
   "body": [
     "",
