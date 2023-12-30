@@ -36199,7 +36199,7 @@
   "description": "Flutter ActionIconTheme Example"
 },
 "Flutter GridTileBar Example": {
-  "prefix": "flutter-gridTileBar",
+  "prefix": "flutter-GridTileBar",
   "scope":"dart",
   "body": [
     "",
