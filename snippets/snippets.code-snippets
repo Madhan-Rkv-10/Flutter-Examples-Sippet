@@ -26577,6 +26577,7 @@
 },
 "Flutter systemOverlayStyle Example": {
   "prefix": "flutter-systemOverlayStyle",
+  "scope":"dart",
   "body": [
     "",
     "import 'dart:math' as math;",
@@ -26649,11 +26650,12 @@
     ""
   ],
   "description": "Flutter systemOverlayStyle Example"
-}
-,"Flutter TextInputControl Example": {
+},
+"Flutter TextInputControl Example": {
   "prefix": "flutter-TextInputControl",
   "scope":"dart",
   "body": [
+    "",
     "import 'package:flutter/foundation.dart';",
     "import 'package:flutter/material.dart';",
     "import 'package:flutter/services.dart';",
