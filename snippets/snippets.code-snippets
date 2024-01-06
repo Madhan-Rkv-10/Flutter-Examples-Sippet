@@ -31876,7 +31876,7 @@
   "prefix": "flutter-input-chip-one",
   "scope":"dart",
   "body": [
-    "",
+   
     "import 'dart:async';",
     "",
     "import 'package:flutter/material.dart';",
