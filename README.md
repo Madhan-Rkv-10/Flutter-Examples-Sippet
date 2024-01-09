@@ -3,37 +3,37 @@ Sure, here's the modified Markdown table where the content after "flutter-" is d
 ```markdown
 | Widgets | Description |
 |---------|-------------|
-| flutter-ActionChip | ActionChip |
-| flutter-AnimatedIcon | AnimatedIcon |
-| flutter-AppBar | AppBar |
-| flutter-editable-toolbar-builder | Editable Toolbar Builder |
-| flutter-Autocomplete | Autocomplete |
-| flutter-AutocompleteAsync | AutocompleteAsync |
-| flutter-MaterialBanner | MaterialBanner |
-| flutter-BottomAppBar-two | BottomAppBar Two |
-| flutter-BottomAppBar | BottomAppBar |
-| flutter-BottomNavigationBar | BottomNavigationBar |
-| flutter-modal-bottomsheet-example | Modal Bottomsheet Example |
-| flutter-ElevatedButton | ElevatedButton |
-| flutter-Checkbox | Checkbox |
-| flutter-CheckboxListTile | CheckboxListTile |
-| flutter-chip-deletable-example | Chip Deletable Example |
-| flutter-chip-choice-example | Chip Choice Example |
-| flutter-dynamic-color-example | Dynamic Color Example |
-| flutter-selectable-region-toolbar-example | Selectable Region Toolbar Example |
-| flutter-datatable-example | Datatable Example |
-| flutter-date-range-picker-example | Date Range Picker Example |
-| flutter-date-picker-example | Date Picker Example |
-| flutter-adaptive-dialog-example | Adaptive Dialog Example |
-| flutter-showDialog | Show Dialog |
-| flutter-AlertDialog | AlertDialog |
-| flutter-Divider | Divider |
-| flutter-VerticalDivider | VerticalDivider |
-| flutter-DropdownButton | DropdownButton |
-| flutter-DropdownMenu-example | DropdownMenu Example |
-| flutter-ExpansionPanelList-example | ExpansionPanelList Example |
-| flutter-FilledButton | FilledButton |
-| flutter-FilterChip | FilterChip |
+| flutter-ActionChip                                  | ActionChip |
+| flutter-AnimatedIcon                                | AnimatedIcon |
+| flutter-AppBar                                      | AppBar |
+| flutter-editable-toolbar-builder                    | Editable Toolbar Builder |
+| flutter-Autocomplete                                | Autocomplete |
+| flutter-AutocompleteAsync                           | AutocompleteAsync |
+| flutter-MaterialBanner                              | MaterialBanner |
+| flutter-BottomAppBar-two                            | BottomAppBar Two |
+| flutter-BottomAppBar                                | BottomAppBar |
+| flutter-BottomNavigationBar                         | BottomNavigationBar |
+| flutter-modal-bottomsheet-example                   | Modal Bottomsheet Example |
+| flutter-ElevatedButton                              | ElevatedButton |
+| flutter-Checkbox                                    | Checkbox |
+| flutter-CheckboxListTile                            | CheckboxListTile |
+| flutter-chip-deletable-example                      | Chip Deletable Example |
+| flutter-chip-choice-example                         | Chip Choice Example |
+| flutter-dynamic-color-example                       | Dynamic Color Example |
+| flutter-selectable-region-toolbar-example           | Selectable Region Toolbar Example |
+| flutter-datatable-example                           | Datatable Example |
+| flutter-date-range-picker-example                   | Date Range Picker Example |
+| flutter-date-picker-example                         | Date Picker Example |
+| flutter-adaptive-dialog-example                     | Adaptive Dialog Example |
+| flutter-showDialog                                  | Show Dialog |
+| flutter-AlertDialog                                 | AlertDialog |
+| flutter-Divider                                     | Divider |
+| flutter-VerticalDivider                             | VerticalDivider |
+| flutter-DropdownButton                              | DropdownButton |
+| flutter-DropdownMenu-example                        | DropdownMenu Example |
+| flutter-ExpansionPanelList-example                  | ExpansionPanelList Example |
+| flutter-FilledButton                                | FilledButton |
+| flutter-FilterChip                                  | FilterChip |
 | flutter-FlexibleSpaceBar | FlexibleSpaceBar |
 | flutter-FloatingActionButton | FloatingActionButton |
 | flutter-ChoiceChip-example | ChoiceChip Example |
@@ -105,9 +105,7 @@ Sure, here's the modified Markdown table where the content after "flutter-" is d
 | flutter-AnimatedSize | AnimatedSize |
 | flutter-AnimatedSwitcher | AnimatedSwitcher |
 | flutter-AppLifecycleListener | AppLifecycleListener |
-| flutter-FutureBuilder |
-
- FutureBuilder |
+| flutter-FutureBuilder |FutureBuilder |
 | flutter-StreamBuilder | StreamBuilder |
 | flutter-RawAutocomplete | RawAutocomplete |
 | Flutter-DropdowFormField | DropdowFormField |
