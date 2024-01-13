@@ -1,7 +1,7 @@
-Sure, here's the modified Markdown table where the content after "flutter-" is divided into two columns:
 
 ```markdown
-| Widgets                                             | Description                             |
+|-----------------------------------------------------|------------------------------------------|
+| ShortCut Flutter Widget Examples                    | Description                              |
 |-----------------------------------------------------|------------------------------------------|
 | flutter-ActionChip                                  | ActionChip                               |                      
 | flutter-AnimatedIcon                                | AnimatedIcon                             |
