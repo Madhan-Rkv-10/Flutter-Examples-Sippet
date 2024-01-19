@@ -39,7 +39,7 @@
 | flutter-ChoiceChip                                  | ChoiceChip                               |
 | flutter-IconButton                                  | IconButton                               |
 | flutter-ClipRRect                                   | ClipRRect                                |
-| flutter-image-clip                                  | Image Clip                               |
+| flutter-image-clip                                  | ImageClip                               |
 | flutter-InkWell                                     | InkWell                                  |
 | flutter-InputChip                                   | InputChip                                |
 | flutter-InputDecoration                             | InputDecoration                          |
