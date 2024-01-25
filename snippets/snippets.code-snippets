@@ -13885,10 +13885,11 @@
   ],
   "description": "Flutter  AnimatedSwitcher  Example"
 },
-"Flutter  AppLifecycleListener  Example": {
+"Flutter AppLifecycleListener Example": {
   "prefix": "flutter-AppLifecycleListener",
-  "scope":"dart",
   "body": [
+    "",
+    "import 'dart:developer';",
     "",
     "import 'package:flutter/material.dart';",
     "import 'package:flutter/scheduler.dart';",
@@ -13951,6 +13952,7 @@
     "  }",
     "",
     "  void _handleTransition(String name) {",
+    "    log(name, name: \"LIFE CYCLE\");",
     "    setState(() {",
     "      _states.add(name);",
     "    });",
@@ -13988,7 +13990,7 @@
     "}",
     ""
   ],
-  "description": "Flutter  AppLifecycleListener  Example"
+  "description": "Flutter AppLifecycleListener Example"
 },
 "Flutter  AppLifecycleListener  Example": {
   "prefix": "flutter-AppLifecycleListener_two",
