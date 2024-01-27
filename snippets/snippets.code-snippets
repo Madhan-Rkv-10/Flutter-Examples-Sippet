@@ -8,7 +8,6 @@
           "class AboutListTileExampleApp extends StatelessWidget {",
           "  const AboutListTileExampleApp({super.key});",
           "",
-"",
           "  @override",
           "  Widget build(BuildContext context) {",
           "    return const MaterialApp(",
