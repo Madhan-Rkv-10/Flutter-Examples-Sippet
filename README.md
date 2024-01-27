@@ -1,9 +1,8 @@
 
-The 250+ Widget Examples
-
+Flutter Examples Snippet is a collection of commonly used Widgets with Examples and it has  more than 250+ widgets with Example, to get example of Widget just add prefix as "fluttter-" with WidgetName, for example to get ApplifeCyleListener widget Example just type `flutter-ApplifeCyleListener` in dart file,
 ```markdown
 |-----------------------------------------------------|------------------------------------------|
-| ShortCut Flutter Widget Examples                    | Description                              |
+| Shortcut Flutter Widget Examples                    | Widget Name                              |
 |-----------------------------------------------------|------------------------------------------|
 | flutter-ActionChip                                  | ActionChip                               |                      
 | flutter-AnimatedIcon                                | AnimatedIcon                             |
@@ -41,7 +40,7 @@ The 250+ Widget Examples
 | flutter-ChoiceChip                                  | ChoiceChip                               |
 | flutter-IconButton                                  | IconButton                               |
 | flutter-ClipRRect                                   | ClipRRect                                |
-| flutter-image-clip                                  | ImageClip                               |
+| flutter-image-clip                                  | ImageClip                                |
 | flutter-InkWell                                     | InkWell                                  |
 | flutter-InputChip                                   | InputChip                                |
 | flutter-InputDecoration                             | InputDecoration                          |
