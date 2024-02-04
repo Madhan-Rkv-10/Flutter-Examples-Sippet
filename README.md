@@ -1,5 +1,5 @@
 
-Flutter Examples Snippet is a collection of commonly used Widgets with Examples and it has  more than 250+ widgets with Example, to get example of Widget just add prefix as "fluttter-" with WidgetName, for example to get ApplifeCyleListener widget Example just type `flutter-ApplifeCyleListener` in dart file,
+Flutter Examples Snippet is a collection of commonly used Widgets with Examples and it has  more than 250+ widgets with Example, to get example of Widget just add prefix as "fluttter-" with WidgetName, for example to get ApplifeCyleListener widget Example just type `flutter-ApplifeCyleListener` in dart file.
 ```markdown
 |-----------------------------------------------------|------------------------------------------|
 | Shortcut Flutter Widget Examples                    | Widget Name                              |
