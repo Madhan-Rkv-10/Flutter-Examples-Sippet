@@ -2,7 +2,7 @@
   "name": "flutter-example-s-snippet",
   "displayName": "Flutter Example's Snippet",
   "description": "Flutter Examples Snippet is a collection of commonly used Widgets with Examples",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "icon": "logo.png",
   "publisher": "MadhanRkv",
   "engines": {
