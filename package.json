@@ -21,7 +21,7 @@
   "contributes": {
     "snippets": [
       {
-        "language": "tsx",
+        "language": "dart",
         "path": "./snippets/snippets.code-snippets"
       }
     ]
