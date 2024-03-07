@@ -2,7 +2,7 @@
   "name": "flutter-example-s-snippet",
   "displayName": "Flutter Example's Snippet",
   "description": "Flutter Examples Snippet is a collection of commonly used Widgets with Examples",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "logo.png",
   "publisher": "MadhanRkv",
   "engines": {
@@ -15,10 +15,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Madhan-Rkv-10/Flutter-Examples-Snippet.git"
-},
-"bugs": {
-  "url": "https://github.com/Madhan-Rkv-10/Flutter-Examples-Snippet/issues"
-},
+  },
+  "bugs": {
+    "url": "https://github.com/Madhan-Rkv-10/Flutter-Examples-Snippet/issues"
+  },
   "contributes": {
     "snippets": [
       {
