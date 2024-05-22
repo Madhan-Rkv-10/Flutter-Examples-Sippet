@@ -36852,6 +36852,7 @@
   },
   "Flutter-FadeInImage-Example": {
     "prefix": "flutter-FadeInImage",
+    "scope": "dart",
     "body": [
       "import 'package:flutter/material.dart';",
       "",
@@ -36885,5 +36886,46 @@
       ""
     ],
     "description": "Flutter-FadeInImage-Example"
+  },
+  "Flutter-NavigationToolbarWidget-Example": {
+    "prefix": "flutter-NavigationToolbar",
+    "scope": "dart",
+    "body": [
+      "import 'package:flutter/material.dart';",
+      "",
+      "void main() {",
+      "  runApp(const NavigationToolbarWidgetExample());",
+      "}",
+      "",
+      "class NavigationToolbarWidgetExample extends StatelessWidget {",
+      "  const NavigationToolbarWidgetExample({super.key});",
+      "",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return MaterialApp(",
+      "      home: Scaffold(",
+      "          appBar: AppBar(",
+      "            title: const Text('Navigation Toolbar'),",
+      "          ),",
+      "          body: const NavigationToolbar(",
+      "            leading: CircleAvatar(",
+      "              radius: 20,",
+      "              backgroundColor: Colors.purple,",
+      "            ),",
+      "            trailing: Icon(Icons.reddit),",
+      "            middle: Column(",
+      "              mainAxisSize: MainAxisSize.min,",
+      "              children: [",
+      "                Text(\"TITLE\"),",
+      "                Text(\"SUBTITLE\"),",
+      "              ],",
+      "            ),",
+      "          )),",
+      "    );",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Flutter-NavigationToolbarWidget-Example"
   }
 }
