@@ -2,6 +2,7 @@
   " Flutter AboutListTile Example": {
     "scope": "dart",
     "prefix": "flutter-listtile-about ",
+     "",
     "body": [
       "void main() => runApp(const AboutListTileExampleApp());",
       "",
